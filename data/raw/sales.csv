@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,product,quantity,unit_price,city,state
+1,1654,2024-01-22,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+2,1228,2024-01-28,Headset Gamer,1,520.0,Salvador,BA
+3,1758,2024-06-22,"Monitor 27""",1,1450.0,Porto Alegre,RS
+4,1432,2024-01-07,Notebook Pro 14,1,6500.0,Rio de Janeiro,RJ
+5,1238,2024-04-08,"Monitor 27""",1,1450.0,Porto Alegre,RS
+6,1203,2024-05-19,Headset Gamer,5,520.0,Curitiba,PR
+7,1225,2024-03-28,"Monitor 27""",3,1450.0,Recife,PE
+8,1890,2024-01-02,Dock USB-C,2,280.0,Salvador,BA
+9,1432,2024-03-07,Mouse Wireless,2,120.0,Rio de Janeiro,RJ
+10,1980,2024-05-28,Mouse Wireless,1,120.0,São Paulo,SP
+11,1389,2024-01-19,Mouse Wireless,3,120.0,Porto Alegre,RS
+12,1270,2024-06-05,Notebook Pro 14,4,6500.0,Porto Alegre,RS
+13,1127,2024-06-28,Teclado Mecânico,1,380.0,Porto Alegre,RS
+14,1300,2024-06-10,Headset Gamer,5,520.0,Recife,PE
+15,1370,2024-04-22,Notebook Air 13,1,4500.0,São Paulo,SP
+16,1677,2024-02-14,Dock USB-C,3,280.0,São Paulo,SP
+17,1875,2024-02-15,Dock USB-C,1,280.0,Curitiba,PR
+18,1284,2024-03-29,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+19,1379,2024-03-09,Notebook Air 13,3,4500.0,Salvador,BA
+20,1959,2024-05-12,Headset Gamer,1,520.0,Porto Alegre,RS
+21,1650,2024-02-03,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+22,1473,2024-03-14,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+23,1701,2024-03-03,Dock USB-C,1,280.0,Rio de Janeiro,RJ
+24,1841,2024-01-07,Dock USB-C,3,280.0,Curitiba,PR
+25,1274,2024-01-13,Notebook Air 13,5,4500.0,Salvador,BA
+26,1322,2024-02-11,Headset Gamer,4,520.0,Curitiba,PR
+27,1905,2024-06-26,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+28,1271,2024-01-28,Notebook Air 13,5,4500.0,Porto Alegre,RS
+29,1269,2024-05-25,"Monitor 27""",4,1450.0,Porto Alegre,RS
+30,1408,2024-03-11,Notebook Air 13,2,4500.0,Porto Alegre,RS
+31,1505,2024-01-18,Dock USB-C,1,280.0,Recife,PE
+32,1112,2024-01-30,Headset Gamer,2,520.0,Recife,PE
+33,1696,2024-03-22,"Monitor 27""",1,1450.0,Curitiba,PR
+34,1390,2024-04-25,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+35,1994,2024-04-17,Dock USB-C,1,280.0,Salvador,BA
+36,1738,2024-01-23,Headset Gamer,5,520.0,Recife,PE
+37,1273,2024-05-29,Headset Gamer,3,520.0,São Paulo,SP
+38,1300,2024-03-25,Notebook Air 13,4,4500.0,São Paulo,SP
+39,1976,2024-05-20,Headset Gamer,3,520.0,Porto Alegre,RS
+40,1780,2024-02-04,"Monitor 27""",1,1450.0,Recife,PE
+41,1640,2024-02-27,Dock USB-C,5,280.0,Porto Alegre,RS
+42,1203,2024-01-30,Mouse Wireless,2,120.0,Porto Alegre,RS
+43,1976,2024-05-31,"Monitor 27""",1,1450.0,Porto Alegre,RS
+44,1331,2024-04-04,Notebook Pro 14,1,6500.0,Belo Horizonte,MG
+45,1899,2024-06-10,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+46,1059,2024-02-16,"Monitor 27""",1,1450.0,São Paulo,SP
+47,1749,2024-04-04,Dock USB-C,1,280.0,Recife,PE
+48,1545,2024-05-28,Notebook Air 13,2,4500.0,Salvador,BA
+49,1486,2024-04-16,Notebook Air 13,3,4500.0,Porto Alegre,RS
+50,1893,2024-04-27,Teclado Mecânico,2,380.0,Porto Alegre,RS
+51,1773,2024-05-21,Headset Gamer,2,520.0,Salvador,BA
+52,1319,2024-03-18,Headset Gamer,3,520.0,Curitiba,PR
+53,1921,2024-04-10,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+54,1230,2024-01-13,Mouse Wireless,1,120.0,Porto Alegre,RS
+55,1567,2024-02-14,"Monitor 27""",2,1450.0,São Paulo,SP
+56,1072,2024-05-17,Headset Gamer,1,520.0,Rio de Janeiro,RJ
+57,1069,2024-06-24,Notebook Pro 14,3,6500.0,São Paulo,SP
+58,1526,2024-02-16,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+59,1552,2024-01-26,Headset Gamer,5,520.0,Porto Alegre,RS
+60,1484,2024-02-17,Dock USB-C,4,280.0,Recife,PE
+61,1416,2024-02-06,Notebook Pro 14,1,6500.0,Salvador,BA
+62,1441,2024-03-09,Teclado Mecânico,4,380.0,Curitiba,PR
+63,1884,2024-05-21,Notebook Pro 14,1,6500.0,São Paulo,SP
+64,1412,2024-05-21,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+65,1196,2024-02-06,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+66,1432,2024-02-05,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+67,1895,2024-06-28,Notebook Pro 14,4,6500.0,Recife,PE
+68,1882,2024-06-15,"Monitor 27""",1,1450.0,São Paulo,SP
+69,1667,2024-04-14,Dock USB-C,1,280.0,São Paulo,SP
+70,1948,2024-05-26,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+71,1416,2024-04-04,Teclado Mecânico,2,380.0,Recife,PE
+72,1410,2024-06-24,Notebook Pro 14,2,6500.0,Curitiba,PR
+73,1002,2024-03-16,Mouse Wireless,4,120.0,Belo Horizonte,MG
+74,1433,2024-05-15,Headset Gamer,5,520.0,Salvador,BA
+75,1735,2024-04-04,Notebook Air 13,2,4500.0,Belo Horizonte,MG
+76,1222,2024-01-12,"Monitor 27""",5,1450.0,São Paulo,SP
+77,1765,2024-03-01,Notebook Pro 14,1,6500.0,Porto Alegre,RS
+78,1488,2024-04-07,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+79,1058,2024-04-08,Notebook Pro 14,2,6500.0,São Paulo,SP
+80,1609,2024-01-14,Headset Gamer,2,520.0,Curitiba,PR
+81,1122,2024-06-21,"Monitor 27""",2,1450.0,Porto Alegre,RS
+82,1608,2024-01-08,"Monitor 27""",1,1450.0,Curitiba,PR
+83,1673,2024-04-23,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+84,1957,2024-02-20,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+85,1271,2024-03-17,Notebook Air 13,3,4500.0,Curitiba,PR
+86,1323,2024-06-29,Dock USB-C,1,280.0,São Paulo,SP
+87,1469,2024-04-30,"Monitor 27""",1,1450.0,São Paulo,SP
+88,1550,2024-02-11,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+89,1955,2024-03-08,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+90,1291,2024-01-31,Teclado Mecânico,5,380.0,Salvador,BA
+91,1309,2024-04-28,Dock USB-C,5,280.0,São Paulo,SP
+92,1683,2024-06-07,"Monitor 27""",3,1450.0,Salvador,BA
+93,1106,2024-06-19,Notebook Air 13,3,4500.0,São Paulo,SP
+94,1911,2024-01-21,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+95,1278,2024-02-24,"Monitor 27""",2,1450.0,Salvador,BA
+96,1351,2024-02-09,Headset Gamer,3,520.0,Porto Alegre,RS
+97,1500,2024-02-18,Dock USB-C,1,280.0,São Paulo,SP
+98,1649,2024-03-23,Dock USB-C,3,280.0,São Paulo,SP
+99,1003,2024-03-05,Dock USB-C,2,280.0,Salvador,BA
+100,1268,2024-02-01,Headset Gamer,4,520.0,Porto Alegre,RS
+101,1722,2024-03-24,"Monitor 27""",1,1450.0,São Paulo,SP
+102,1077,2024-06-20,Headset Gamer,2,520.0,Porto Alegre,RS
+103,1036,2024-06-11,Mouse Wireless,5,120.0,Porto Alegre,RS
+104,1151,2024-03-24,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+105,1373,2024-06-23,Dock USB-C,1,280.0,Belo Horizonte,MG
+106,1215,2024-05-12,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+107,1798,2024-04-18,Dock USB-C,4,280.0,Porto Alegre,RS
+108,1767,2024-01-31,Notebook Air 13,2,4500.0,Recife,PE
+109,1830,2024-02-04,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+110,1754,2024-06-28,Mouse Wireless,4,120.0,Recife,PE
+111,1685,2024-06-16,Headset Gamer,2,520.0,Belo Horizonte,MG
+112,1163,2024-06-01,Headset Gamer,1,520.0,Curitiba,PR
+113,1893,2024-01-08,Dock USB-C,4,280.0,Rio de Janeiro,RJ
+114,1204,2024-06-07,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+115,1840,2024-06-03,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+116,1024,2024-05-08,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+117,1285,2024-06-16,Notebook Pro 14,3,6500.0,Belo Horizonte,MG
+118,1656,2024-04-08,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+119,1961,2024-01-06,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+120,1594,2024-02-21,Notebook Pro 14,1,6500.0,Porto Alegre,RS
+121,1444,2024-03-08,Headset Gamer,3,520.0,Curitiba,PR
+122,1620,2024-04-09,Notebook Pro 14,4,6500.0,Porto Alegre,RS
+123,1194,2024-02-19,Notebook Pro 14,4,6500.0,São Paulo,SP
+124,1532,2024-06-28,Dock USB-C,5,280.0,Salvador,BA
+125,1736,2024-05-24,Headset Gamer,2,520.0,Belo Horizonte,MG
+126,1441,2024-01-14,Headset Gamer,3,520.0,Porto Alegre,RS
+127,1321,2024-05-08,Dock USB-C,1,280.0,Salvador,BA
+128,1921,2024-02-28,"Monitor 27""",3,1450.0,Salvador,BA
+129,1418,2024-03-04,Teclado Mecânico,3,380.0,Porto Alegre,RS
+130,1130,2024-02-07,Teclado Mecânico,4,380.0,Salvador,BA
+131,1766,2024-06-24,Notebook Air 13,5,4500.0,Porto Alegre,RS
+132,1308,2024-03-19,"Monitor 27""",1,1450.0,Belo Horizonte,MG
+133,1293,2024-02-10,Teclado Mecânico,5,380.0,Porto Alegre,RS
+134,1670,2024-03-03,Teclado Mecânico,4,380.0,Curitiba,PR
+135,1691,2024-02-11,"Monitor 27""",4,1450.0,Recife,PE
+136,1922,2024-06-03,Headset Gamer,2,520.0,Salvador,BA
+137,1086,2024-02-25,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+138,1095,2024-06-07,Dock USB-C,2,280.0,Salvador,BA
+139,1317,2024-02-13,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+140,1025,2024-01-09,Notebook Air 13,4,4500.0,Porto Alegre,RS
+141,1870,2024-05-29,Notebook Pro 14,4,6500.0,Curitiba,PR
+142,1907,2024-05-02,"Monitor 27""",2,1450.0,Salvador,BA
+143,1713,2024-03-15,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+144,1151,2024-05-07,Headset Gamer,1,520.0,Recife,PE
+145,1881,2024-05-29,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+146,1180,2024-06-05,Headset Gamer,5,520.0,Curitiba,PR
+147,1051,2024-04-18,Notebook Air 13,1,4500.0,Curitiba,PR
+148,1136,2024-06-04,Teclado Mecânico,5,380.0,Porto Alegre,RS
+149,1609,2024-03-02,Dock USB-C,4,280.0,Porto Alegre,RS
+150,1834,2024-05-19,"Monitor 27""",4,1450.0,Recife,PE
+151,1928,2024-04-16,Teclado Mecânico,2,380.0,Salvador,BA
+152,1882,2024-04-02,Teclado Mecânico,3,380.0,Recife,PE
+153,1253,2024-06-12,Headset Gamer,3,520.0,Recife,PE
+154,1796,2024-04-11,Teclado Mecânico,2,380.0,Belo Horizonte,MG
+155,1450,2024-01-16,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+156,1278,2024-03-06,Mouse Wireless,5,120.0,São Paulo,SP
+157,1141,2024-01-30,Notebook Air 13,4,4500.0,Salvador,BA
+158,1156,2024-05-17,Notebook Air 13,1,4500.0,Curitiba,PR
+159,1417,2024-03-05,"Monitor 27""",4,1450.0,Curitiba,PR
+160,1063,2024-02-10,Dock USB-C,4,280.0,Curitiba,PR
+161,1926,2024-05-29,"Monitor 27""",1,1450.0,Recife,PE
+162,1901,2024-05-28,"Monitor 27""",4,1450.0,Curitiba,PR
+163,1006,2024-03-09,Mouse Wireless,4,120.0,Recife,PE
+164,1913,2024-06-11,Teclado Mecânico,5,380.0,Salvador,BA
+165,1752,2024-04-16,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+166,1499,2024-02-12,Mouse Wireless,4,120.0,Curitiba,PR
+167,1029,2024-03-16,Mouse Wireless,4,120.0,Salvador,BA
+168,1169,2024-06-12,Teclado Mecânico,2,380.0,Porto Alegre,RS
+169,1546,2024-01-06,Teclado Mecânico,5,380.0,Porto Alegre,RS
+170,1678,2024-01-06,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+171,1887,2024-03-30,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+172,1388,2024-03-04,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+173,1345,2024-05-27,Teclado Mecânico,3,380.0,Recife,PE
+174,1974,2024-06-10,Teclado Mecânico,3,380.0,Recife,PE
+175,1083,2024-04-01,Notebook Pro 14,5,6500.0,São Paulo,SP
+176,1974,2024-03-08,Notebook Air 13,1,4500.0,Recife,PE
+177,1980,2024-05-06,Notebook Pro 14,1,6500.0,Rio de Janeiro,RJ
+178,1204,2024-06-11,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+179,1244,2024-01-25,Teclado Mecânico,1,380.0,Porto Alegre,RS
+180,1970,2024-02-12,Teclado Mecânico,3,380.0,Recife,PE
+181,1377,2024-02-02,"Monitor 27""",5,1450.0,Salvador,BA
+182,1735,2024-01-23,Dock USB-C,2,280.0,Belo Horizonte,MG
+183,1110,2024-04-22,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+184,1693,2024-06-25,Teclado Mecânico,4,380.0,Salvador,BA
+185,1203,2024-01-15,"Monitor 27""",2,1450.0,São Paulo,SP
+186,1713,2024-05-30,Mouse Wireless,5,120.0,Recife,PE
+187,1123,2024-06-03,"Monitor 27""",1,1450.0,Belo Horizonte,MG
+188,1545,2024-03-24,Headset Gamer,3,520.0,São Paulo,SP
+189,1518,2024-05-05,Mouse Wireless,1,120.0,Recife,PE
+190,1430,2024-06-08,Teclado Mecânico,1,380.0,Curitiba,PR
+191,1983,2024-03-11,Headset Gamer,4,520.0,Salvador,BA
+192,1156,2024-03-25,Notebook Air 13,5,4500.0,Salvador,BA
+193,1276,2024-04-29,Dock USB-C,5,280.0,Recife,PE
+194,1495,2024-03-31,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+195,1330,2024-06-14,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+196,1902,2024-03-28,Notebook Air 13,4,4500.0,Porto Alegre,RS
+197,1624,2024-05-09,Teclado Mecânico,3,380.0,São Paulo,SP
+198,1506,2024-06-14,Mouse Wireless,2,120.0,Curitiba,PR
+199,1217,2024-03-09,Dock USB-C,3,280.0,Belo Horizonte,MG
+200,1286,2024-06-19,"Monitor 27""",3,1450.0,Porto Alegre,RS
+201,1010,2024-04-10,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+202,1737,2024-03-19,Teclado Mecânico,5,380.0,Recife,PE
+203,1246,2024-05-14,Teclado Mecânico,4,380.0,Curitiba,PR
+204,1811,2024-01-04,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+205,1414,2024-05-14,Notebook Air 13,3,4500.0,Salvador,BA
+206,1595,2024-03-12,Teclado Mecânico,5,380.0,Porto Alegre,RS
+207,1352,2024-03-23,Headset Gamer,5,520.0,Belo Horizonte,MG
+208,1360,2024-05-16,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+209,1257,2024-02-14,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+210,1122,2024-05-24,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+211,1221,2024-05-23,Teclado Mecânico,3,380.0,Salvador,BA
+212,1603,2024-05-27,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+213,1102,2024-06-10,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+214,1369,2024-02-04,Mouse Wireless,1,120.0,Salvador,BA
+215,1546,2024-01-25,Mouse Wireless,1,120.0,São Paulo,SP
+216,1566,2024-02-26,Headset Gamer,2,520.0,Salvador,BA
+217,1889,2024-05-26,Teclado Mecânico,1,380.0,Recife,PE
+218,1012,2024-04-21,Mouse Wireless,4,120.0,Curitiba,PR
+219,1451,2024-03-07,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+220,1963,2024-06-16,Teclado Mecânico,1,380.0,Recife,PE
+221,1066,2024-03-18,Teclado Mecânico,1,380.0,Porto Alegre,RS
+222,1644,2024-05-13,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+223,1830,2024-04-19,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+224,1121,2024-04-18,Dock USB-C,4,280.0,Porto Alegre,RS
+225,1610,2024-06-02,"Monitor 27""",2,1450.0,Recife,PE
+226,1535,2024-03-14,Teclado Mecânico,4,380.0,Belo Horizonte,MG
+227,1880,2024-04-24,Teclado Mecânico,3,380.0,Porto Alegre,RS
+228,1635,2024-01-12,"Monitor 27""",1,1450.0,Recife,PE
+229,1212,2024-05-01,Notebook Air 13,3,4500.0,Salvador,BA
+230,1083,2024-01-31,Notebook Air 13,2,4500.0,Porto Alegre,RS
+231,1076,2024-01-31,Notebook Pro 14,4,6500.0,Curitiba,PR
+232,1705,2024-04-25,Teclado Mecânico,3,380.0,São Paulo,SP
+233,1237,2024-02-25,Headset Gamer,3,520.0,Salvador,BA
+234,1880,2024-03-29,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+235,1806,2024-06-02,Headset Gamer,5,520.0,Salvador,BA
+236,1823,2024-06-30,Notebook Air 13,4,4500.0,São Paulo,SP
+237,1557,2024-02-13,Headset Gamer,2,520.0,Belo Horizonte,MG
+238,1846,2024-01-28,Notebook Pro 14,1,6500.0,Rio de Janeiro,RJ
+239,1811,2024-02-29,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+240,1449,2024-01-25,Teclado Mecânico,3,380.0,Salvador,BA
+241,1412,2024-02-22,"Monitor 27""",5,1450.0,Curitiba,PR
+242,1448,2024-01-16,"Monitor 27""",1,1450.0,Curitiba,PR
+243,1752,2024-03-03,"Monitor 27""",3,1450.0,São Paulo,SP
+244,1093,2024-02-14,Headset Gamer,5,520.0,Porto Alegre,RS
+245,1973,2024-01-05,Dock USB-C,3,280.0,Porto Alegre,RS
+246,1041,2024-05-28,Dock USB-C,2,280.0,Curitiba,PR
+247,1531,2024-05-06,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+248,1599,2024-03-25,Headset Gamer,4,520.0,São Paulo,SP
+249,1481,2024-03-08,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+250,1686,2024-01-21,Dock USB-C,2,280.0,Belo Horizonte,MG
+251,1421,2024-05-14,Teclado Mecânico,3,380.0,Salvador,BA
+252,1967,2024-03-18,Dock USB-C,5,280.0,São Paulo,SP
+253,1465,2024-01-18,Mouse Wireless,3,120.0,Belo Horizonte,MG
+254,1118,2024-05-30,Teclado Mecânico,5,380.0,Recife,PE
+255,1001,2024-05-07,Dock USB-C,5,280.0,Curitiba,PR
+256,1423,2024-01-11,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+257,1637,2024-05-26,Teclado Mecânico,4,380.0,Recife,PE
+258,1052,2024-02-09,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+259,1949,2024-02-25,Teclado Mecânico,4,380.0,São Paulo,SP
+260,1029,2024-05-02,"Monitor 27""",2,1450.0,Salvador,BA
+261,1162,2024-03-01,"Monitor 27""",1,1450.0,Porto Alegre,RS
+262,1417,2024-01-19,Notebook Air 13,1,4500.0,Curitiba,PR
+263,1969,2024-01-23,Headset Gamer,2,520.0,Curitiba,PR
+264,1955,2024-05-19,Mouse Wireless,5,120.0,Salvador,BA
+265,1279,2024-03-21,Dock USB-C,4,280.0,Curitiba,PR
+266,1249,2024-03-29,"Monitor 27""",2,1450.0,Curitiba,PR
+267,1195,2024-06-28,"Monitor 27""",5,1450.0,Salvador,BA
+268,1900,2024-01-27,Dock USB-C,1,280.0,Belo Horizonte,MG
+269,1791,2024-06-02,Dock USB-C,4,280.0,Belo Horizonte,MG
+270,1956,2024-06-01,"Monitor 27""",3,1450.0,Recife,PE
+271,1002,2024-02-24,Headset Gamer,3,520.0,Recife,PE
+272,1601,2024-04-22,Headset Gamer,4,520.0,Recife,PE
+273,1152,2024-03-27,"Monitor 27""",4,1450.0,Belo Horizonte,MG
+274,1340,2024-04-17,Dock USB-C,5,280.0,Curitiba,PR
+275,1466,2024-06-30,Mouse Wireless,2,120.0,Salvador,BA
+276,1244,2024-04-21,Teclado Mecânico,2,380.0,Recife,PE
+277,1794,2024-03-20,Notebook Pro 14,3,6500.0,Salvador,BA
+278,1484,2024-05-16,Dock USB-C,4,280.0,Curitiba,PR
+279,1679,2024-06-02,Dock USB-C,2,280.0,Curitiba,PR
+280,1987,2024-01-08,Notebook Air 13,5,4500.0,Porto Alegre,RS
+281,1339,2024-06-17,Notebook Pro 14,4,6500.0,São Paulo,SP
+282,1538,2024-06-25,Teclado Mecânico,1,380.0,Salvador,BA
+283,1147,2024-03-20,Dock USB-C,2,280.0,São Paulo,SP
+284,1480,2024-05-31,Mouse Wireless,3,120.0,Porto Alegre,RS
+285,1709,2024-03-18,Headset Gamer,1,520.0,Recife,PE
+286,1336,2024-06-14,Headset Gamer,5,520.0,Curitiba,PR
+287,1977,2024-03-02,Headset Gamer,4,520.0,Recife,PE
+288,1554,2024-01-07,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+289,1646,2024-05-12,Mouse Wireless,2,120.0,Salvador,BA
+290,1092,2024-03-25,Notebook Pro 14,1,6500.0,Curitiba,PR
+291,1170,2024-05-14,Mouse Wireless,1,120.0,São Paulo,SP
+292,1332,2024-06-03,Notebook Pro 14,3,6500.0,Belo Horizonte,MG
+293,1383,2024-03-24,Notebook Air 13,2,4500.0,Porto Alegre,RS
+294,1421,2024-04-19,Headset Gamer,2,520.0,Rio de Janeiro,RJ
+295,1179,2024-01-16,"Monitor 27""",4,1450.0,Porto Alegre,RS
+296,1699,2024-02-16,Teclado Mecânico,5,380.0,Rio de Janeiro,RJ
+297,1237,2024-03-30,Headset Gamer,3,520.0,Curitiba,PR
+298,1261,2024-05-09,Notebook Pro 14,4,6500.0,Belo Horizonte,MG
+299,1693,2024-04-16,Notebook Air 13,1,4500.0,Curitiba,PR
+300,1967,2024-03-08,"Monitor 27""",3,1450.0,Salvador,BA
+301,1985,2024-03-23,Headset Gamer,3,520.0,Curitiba,PR
+302,1865,2024-02-28,Notebook Air 13,4,4500.0,Recife,PE
+303,1494,2024-01-21,Notebook Air 13,4,4500.0,Porto Alegre,RS
+304,1367,2024-04-21,Mouse Wireless,3,120.0,São Paulo,SP
+305,1849,2024-05-07,Teclado Mecânico,3,380.0,São Paulo,SP
+306,1579,2024-06-16,Headset Gamer,1,520.0,Porto Alegre,RS
+307,1763,2024-04-06,Dock USB-C,3,280.0,Recife,PE
+308,1818,2024-02-14,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+309,1651,2024-02-06,"Monitor 27""",3,1450.0,Salvador,BA
+310,1773,2024-05-19,Dock USB-C,2,280.0,Salvador,BA
+311,1099,2024-06-24,Headset Gamer,1,520.0,Belo Horizonte,MG
+312,1807,2024-03-26,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+313,1749,2024-01-26,Notebook Pro 14,3,6500.0,Belo Horizonte,MG
+314,1765,2024-03-21,Notebook Air 13,2,4500.0,Rio de Janeiro,RJ
+315,1805,2024-04-14,Mouse Wireless,5,120.0,Porto Alegre,RS
+316,1935,2024-02-22,Dock USB-C,2,280.0,Belo Horizonte,MG
+317,1935,2024-06-09,Teclado Mecânico,3,380.0,Salvador,BA
+318,1891,2024-03-06,Dock USB-C,1,280.0,Curitiba,PR
+319,1986,2024-01-15,Notebook Air 13,2,4500.0,Recife,PE
+320,1692,2024-05-20,Headset Gamer,4,520.0,Recife,PE
+321,1823,2024-04-18,Mouse Wireless,1,120.0,Recife,PE
+322,1404,2024-01-03,Mouse Wireless,5,120.0,São Paulo,SP
+323,1465,2024-03-12,Headset Gamer,3,520.0,Porto Alegre,RS
+324,1390,2024-06-08,Headset Gamer,3,520.0,São Paulo,SP
+325,1691,2024-02-15,Teclado Mecânico,1,380.0,Porto Alegre,RS
+326,1905,2024-04-19,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+327,1663,2024-01-13,Headset Gamer,4,520.0,Salvador,BA
+328,1309,2024-05-06,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+329,1046,2024-01-08,Mouse Wireless,4,120.0,São Paulo,SP
+330,1099,2024-02-15,"Monitor 27""",2,1450.0,Curitiba,PR
+331,1464,2024-03-13,Headset Gamer,5,520.0,Curitiba,PR
+332,1601,2024-05-24,Headset Gamer,2,520.0,Curitiba,PR
+333,1670,2024-01-20,Dock USB-C,4,280.0,Porto Alegre,RS
+334,1417,2024-02-24,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+335,1454,2024-03-27,Notebook Air 13,3,4500.0,São Paulo,SP
+336,1702,2024-03-12,"Monitor 27""",3,1450.0,São Paulo,SP
+337,1407,2024-02-23,Notebook Air 13,1,4500.0,Recife,PE
+338,1843,2024-03-29,Notebook Pro 14,2,6500.0,Salvador,BA
+339,1654,2024-04-25,Notebook Pro 14,1,6500.0,Recife,PE
+340,1341,2024-02-17,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+341,1070,2024-06-10,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+342,1600,2024-02-11,Dock USB-C,2,280.0,Belo Horizonte,MG
+343,1792,2024-01-29,Dock USB-C,5,280.0,São Paulo,SP
+344,1283,2024-06-15,Notebook Air 13,2,4500.0,Porto Alegre,RS
+345,1256,2024-06-04,Notebook Air 13,1,4500.0,Salvador,BA
+346,1887,2024-01-06,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+347,1808,2024-06-02,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+348,1016,2024-02-03,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+349,1759,2024-03-22,"Monitor 27""",1,1450.0,Salvador,BA
+350,1065,2024-04-02,Teclado Mecânico,3,380.0,Porto Alegre,RS
+351,1607,2024-01-22,Teclado Mecânico,5,380.0,Rio de Janeiro,RJ
+352,1968,2024-04-29,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+353,1469,2024-05-04,Notebook Pro 14,1,6500.0,Curitiba,PR
+354,1867,2024-03-18,Teclado Mecânico,1,380.0,Curitiba,PR
+355,1729,2024-06-25,Teclado Mecânico,1,380.0,São Paulo,SP
+356,1329,2024-04-28,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+357,1281,2024-05-01,Headset Gamer,5,520.0,Porto Alegre,RS
+358,1729,2024-03-04,Teclado Mecânico,5,380.0,Porto Alegre,RS
+359,1301,2024-03-29,"Monitor 27""",5,1450.0,Curitiba,PR
+360,1101,2024-06-03,Headset Gamer,1,520.0,Recife,PE
+361,1670,2024-05-06,Dock USB-C,5,280.0,Salvador,BA
+362,1886,2024-02-11,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+363,1423,2024-03-06,Dock USB-C,4,280.0,Curitiba,PR
+364,1425,2024-05-21,Notebook Pro 14,3,6500.0,Curitiba,PR
+365,1320,2024-05-09,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+366,1703,2024-06-28,Teclado Mecânico,1,380.0,São Paulo,SP
+367,1851,2024-01-17,Notebook Pro 14,4,6500.0,São Paulo,SP
+368,1762,2024-05-23,Mouse Wireless,2,120.0,Porto Alegre,RS
+369,1061,2024-04-23,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+370,1686,2024-01-24,Teclado Mecânico,3,380.0,Recife,PE
+371,1681,2024-05-25,Teclado Mecânico,1,380.0,Belo Horizonte,MG
+372,1614,2024-03-01,Mouse Wireless,1,120.0,Porto Alegre,RS
+373,1519,2024-02-11,Notebook Air 13,4,4500.0,Rio de Janeiro,RJ
+374,1867,2024-01-22,Mouse Wireless,5,120.0,Belo Horizonte,MG
+375,1117,2024-05-28,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+376,1826,2024-03-24,Dock USB-C,5,280.0,Recife,PE
+377,1838,2024-04-30,"Monitor 27""",5,1450.0,São Paulo,SP
+378,1623,2024-06-29,Headset Gamer,3,520.0,São Paulo,SP
+379,1184,2024-02-23,Headset Gamer,3,520.0,Belo Horizonte,MG
+380,1359,2024-01-02,Notebook Air 13,2,4500.0,Porto Alegre,RS
+381,1673,2024-03-18,Notebook Pro 14,2,6500.0,Salvador,BA
+382,1648,2024-01-06,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+383,1385,2024-03-22,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+384,1378,2024-03-01,Headset Gamer,3,520.0,Recife,PE
+385,1964,2024-04-20,"Monitor 27""",1,1450.0,São Paulo,SP
+386,1159,2024-01-31,Dock USB-C,5,280.0,São Paulo,SP
+387,1690,2024-01-16,Mouse Wireless,4,120.0,Salvador,BA
+388,1434,2024-04-04,"Monitor 27""",4,1450.0,Curitiba,PR
+389,1279,2024-02-11,Dock USB-C,5,280.0,São Paulo,SP
+390,1353,2024-03-24,Notebook Pro 14,3,6500.0,Salvador,BA
+391,1694,2024-04-25,Teclado Mecânico,5,380.0,Salvador,BA
+392,1315,2024-01-09,Notebook Air 13,4,4500.0,Porto Alegre,RS
+393,1056,2024-01-02,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+394,1785,2024-01-27,Dock USB-C,3,280.0,Belo Horizonte,MG
+395,1335,2024-01-24,Notebook Pro 14,4,6500.0,Salvador,BA
+396,1440,2024-02-04,Notebook Air 13,4,4500.0,Porto Alegre,RS
+397,1720,2024-02-14,"Monitor 27""",5,1450.0,Recife,PE
+398,1684,2024-06-05,Mouse Wireless,1,120.0,Curitiba,PR
+399,1882,2024-05-24,Notebook Pro 14,4,6500.0,São Paulo,SP
+400,1470,2024-06-27,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+401,1439,2024-04-21,Teclado Mecânico,4,380.0,Belo Horizonte,MG
+402,1117,2024-03-19,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+403,1820,2024-04-30,Teclado Mecânico,3,380.0,São Paulo,SP
+404,1447,2024-06-12,Notebook Pro 14,2,6500.0,Curitiba,PR
+405,1603,2024-03-18,"Monitor 27""",1,1450.0,Curitiba,PR
+406,1891,2024-03-01,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+407,1341,2024-05-31,Notebook Air 13,1,4500.0,Porto Alegre,RS
+408,1648,2024-01-23,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+409,1927,2024-05-30,Mouse Wireless,3,120.0,Salvador,BA
+410,1981,2024-06-08,Headset Gamer,2,520.0,Rio de Janeiro,RJ
+411,1105,2024-01-29,Mouse Wireless,2,120.0,Rio de Janeiro,RJ
+412,1616,2024-01-30,Dock USB-C,1,280.0,Rio de Janeiro,RJ
+413,1974,2024-05-30,Headset Gamer,4,520.0,Curitiba,PR
+414,1772,2024-04-19,Dock USB-C,5,280.0,Curitiba,PR
+415,1697,2024-06-28,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+416,1884,2024-05-01,Mouse Wireless,2,120.0,Curitiba,PR
+417,1069,2024-04-01,Teclado Mecânico,3,380.0,Recife,PE
+418,1281,2024-04-24,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+419,1075,2024-03-01,Teclado Mecânico,4,380.0,São Paulo,SP
+420,1058,2024-03-12,Dock USB-C,3,280.0,São Paulo,SP
+421,1660,2024-06-16,Dock USB-C,1,280.0,Porto Alegre,RS
+422,1608,2024-04-08,Teclado Mecânico,4,380.0,Porto Alegre,RS
+423,1567,2024-06-02,Headset Gamer,1,520.0,Curitiba,PR
+424,1930,2024-06-06,"Monitor 27""",2,1450.0,Belo Horizonte,MG
+425,1619,2024-04-02,"Monitor 27""",2,1450.0,São Paulo,SP
+426,1461,2024-01-21,Dock USB-C,3,280.0,Salvador,BA
+427,1086,2024-04-07,Headset Gamer,2,520.0,São Paulo,SP
+428,1253,2024-05-17,Teclado Mecânico,4,380.0,Porto Alegre,RS
+429,1535,2024-04-28,Notebook Air 13,3,4500.0,Belo Horizonte,MG
+430,1939,2024-02-24,Teclado Mecânico,4,380.0,Recife,PE
+431,1346,2024-05-11,"Monitor 27""",1,1450.0,Recife,PE
+432,1646,2024-05-05,Mouse Wireless,1,120.0,Belo Horizonte,MG
+433,1096,2024-04-18,Headset Gamer,4,520.0,Belo Horizonte,MG
+434,1258,2024-05-20,Dock USB-C,5,280.0,Recife,PE
+435,1153,2024-03-05,Notebook Pro 14,5,6500.0,Salvador,BA
+436,1144,2024-06-27,Mouse Wireless,3,120.0,Salvador,BA
+437,1715,2024-05-08,Teclado Mecânico,2,380.0,Porto Alegre,RS
+438,1725,2024-01-17,Mouse Wireless,5,120.0,Curitiba,PR
+439,1658,2024-06-02,Mouse Wireless,2,120.0,Salvador,BA
+440,1719,2024-06-09,Headset Gamer,5,520.0,São Paulo,SP
+441,1661,2024-05-10,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+442,1018,2024-03-11,Mouse Wireless,2,120.0,Rio de Janeiro,RJ
+443,1349,2024-05-28,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+444,1140,2024-01-31,Notebook Pro 14,3,6500.0,Recife,PE
+445,1807,2024-01-20,"Monitor 27""",5,1450.0,Recife,PE
+446,1756,2024-06-20,"Monitor 27""",1,1450.0,Salvador,BA
+447,1344,2024-06-19,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+448,1611,2024-03-14,Notebook Air 13,2,4500.0,Rio de Janeiro,RJ
+449,1851,2024-05-14,Dock USB-C,5,280.0,Recife,PE
+450,1924,2024-02-02,Headset Gamer,4,520.0,São Paulo,SP
+451,1420,2024-03-11,Headset Gamer,2,520.0,Curitiba,PR
+452,1625,2024-02-25,Dock USB-C,4,280.0,Rio de Janeiro,RJ
+453,1546,2024-02-16,Mouse Wireless,4,120.0,Recife,PE
+454,1198,2024-03-12,Headset Gamer,5,520.0,Curitiba,PR
+455,1472,2024-05-29,Mouse Wireless,4,120.0,Porto Alegre,RS
+456,1540,2024-03-22,Notebook Air 13,2,4500.0,Recife,PE
+457,1619,2024-01-27,Dock USB-C,3,280.0,São Paulo,SP
+458,1656,2024-04-03,Dock USB-C,3,280.0,Porto Alegre,RS
+459,1956,2024-01-20,Headset Gamer,5,520.0,Recife,PE
+460,1127,2024-02-25,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+461,1460,2024-06-24,"Monitor 27""",2,1450.0,Recife,PE
+462,1447,2024-01-18,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+463,1952,2024-01-06,Teclado Mecânico,1,380.0,Curitiba,PR
+464,1514,2024-03-13,Notebook Air 13,4,4500.0,São Paulo,SP
+465,1383,2024-02-13,Notebook Pro 14,3,6500.0,São Paulo,SP
+466,1859,2024-05-18,Headset Gamer,3,520.0,Recife,PE
+467,1149,2024-01-27,Notebook Pro 14,3,6500.0,Recife,PE
+468,1483,2024-05-15,Dock USB-C,2,280.0,Recife,PE
+469,1722,2024-04-01,Teclado Mecânico,5,380.0,São Paulo,SP
+470,1927,2024-01-16,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+471,1855,2024-01-30,"Monitor 27""",5,1450.0,Porto Alegre,RS
+472,1433,2024-01-22,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+473,1308,2024-01-24,Notebook Pro 14,2,6500.0,Curitiba,PR
+474,1654,2024-06-03,"Monitor 27""",4,1450.0,São Paulo,SP
+475,1113,2024-06-11,Teclado Mecânico,5,380.0,Porto Alegre,RS
+476,1016,2024-05-02,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+477,1735,2024-01-28,Mouse Wireless,4,120.0,São Paulo,SP
+478,1629,2024-03-09,Notebook Air 13,5,4500.0,Curitiba,PR
+479,1191,2024-05-09,Headset Gamer,1,520.0,Porto Alegre,RS
+480,1998,2024-03-11,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+481,1519,2024-06-01,"Monitor 27""",5,1450.0,São Paulo,SP
+482,1399,2024-06-18,Teclado Mecânico,1,380.0,Salvador,BA
+483,1396,2024-03-13,Mouse Wireless,1,120.0,Belo Horizonte,MG
+484,1807,2024-01-14,Mouse Wireless,2,120.0,Salvador,BA
+485,1672,2024-05-01,Notebook Pro 14,5,6500.0,Salvador,BA
+486,1774,2024-03-05,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+487,1559,2024-03-06,Dock USB-C,2,280.0,Recife,PE
+488,1797,2024-05-12,Teclado Mecânico,4,380.0,Salvador,BA
+489,1186,2024-06-06,Notebook Air 13,1,4500.0,Salvador,BA
+490,1794,2024-03-29,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+491,1044,2024-06-02,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+492,1955,2024-03-01,"Monitor 27""",4,1450.0,Recife,PE
+493,1556,2024-04-01,Mouse Wireless,1,120.0,Recife,PE
+494,1662,2024-02-07,Mouse Wireless,3,120.0,Recife,PE
+495,1799,2024-01-10,Dock USB-C,3,280.0,Belo Horizonte,MG
+496,1127,2024-06-04,Mouse Wireless,4,120.0,Curitiba,PR
+497,1761,2024-03-26,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+498,1508,2024-05-14,Teclado Mecânico,3,380.0,Recife,PE
+499,1531,2024-02-21,Dock USB-C,1,280.0,Salvador,BA
+500,1434,2024-01-16,Teclado Mecânico,5,380.0,Recife,PE
+501,1184,2024-04-15,Mouse Wireless,3,120.0,São Paulo,SP
+502,1081,2024-03-04,Headset Gamer,3,520.0,Belo Horizonte,MG
+503,1456,2024-04-27,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+504,1706,2024-03-27,Mouse Wireless,4,120.0,São Paulo,SP
+505,1744,2024-06-17,Mouse Wireless,5,120.0,Curitiba,PR
+506,1281,2024-05-04,Dock USB-C,1,280.0,São Paulo,SP
+507,1687,2024-05-03,Teclado Mecânico,3,380.0,Porto Alegre,RS
+508,1820,2024-05-25,Headset Gamer,2,520.0,São Paulo,SP
+509,1146,2024-06-13,"Monitor 27""",4,1450.0,São Paulo,SP
+510,1129,2024-01-14,Notebook Air 13,3,4500.0,Belo Horizonte,MG
+511,1392,2024-04-20,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+512,1695,2024-03-28,Mouse Wireless,3,120.0,Curitiba,PR
+513,1781,2024-01-15,"Monitor 27""",2,1450.0,Porto Alegre,RS
+514,1375,2024-03-18,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+515,1983,2024-01-23,Notebook Pro 14,2,6500.0,Curitiba,PR
+516,1530,2024-03-16,"Monitor 27""",1,1450.0,Belo Horizonte,MG
+517,1793,2024-02-20,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+518,1626,2024-02-25,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+519,1125,2024-01-27,Dock USB-C,1,280.0,Curitiba,PR
+520,1176,2024-06-23,Headset Gamer,4,520.0,São Paulo,SP
+521,1829,2024-05-12,Dock USB-C,3,280.0,Salvador,BA
+522,1355,2024-05-17,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+523,1297,2024-06-22,Mouse Wireless,2,120.0,Salvador,BA
+524,1726,2024-06-29,Headset Gamer,2,520.0,Recife,PE
+525,1370,2024-04-08,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+526,1811,2024-01-27,Notebook Air 13,4,4500.0,São Paulo,SP
+527,1369,2024-04-17,"Monitor 27""",3,1450.0,Curitiba,PR
+528,1822,2024-04-17,Notebook Air 13,5,4500.0,São Paulo,SP
+529,1067,2024-03-01,Teclado Mecânico,4,380.0,Porto Alegre,RS
+530,1420,2024-05-29,Teclado Mecânico,5,380.0,São Paulo,SP
+531,1128,2024-03-02,Headset Gamer,1,520.0,Curitiba,PR
+532,1477,2024-05-12,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+533,1899,2024-06-09,Dock USB-C,5,280.0,Salvador,BA
+534,1601,2024-02-05,Dock USB-C,2,280.0,Curitiba,PR
+535,1514,2024-06-25,Dock USB-C,1,280.0,Recife,PE
+536,1127,2024-04-10,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+537,1165,2024-03-03,Headset Gamer,2,520.0,Belo Horizonte,MG
+538,1970,2024-04-10,Mouse Wireless,1,120.0,Belo Horizonte,MG
+539,1201,2024-05-03,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+540,1640,2024-02-28,"Monitor 27""",5,1450.0,São Paulo,SP
+541,1514,2024-05-04,Notebook Air 13,5,4500.0,Porto Alegre,RS
+542,1157,2024-02-03,Headset Gamer,5,520.0,Salvador,BA
+543,1923,2024-04-27,Mouse Wireless,5,120.0,São Paulo,SP
+544,1845,2024-06-16,Notebook Pro 14,1,6500.0,São Paulo,SP
+545,1971,2024-05-04,Dock USB-C,5,280.0,Belo Horizonte,MG
+546,1666,2024-02-10,Dock USB-C,5,280.0,Curitiba,PR
+547,1632,2024-05-04,Notebook Pro 14,4,6500.0,Salvador,BA
+548,1558,2024-02-26,Headset Gamer,3,520.0,Curitiba,PR
+549,1250,2024-06-05,Dock USB-C,4,280.0,Belo Horizonte,MG
+550,1464,2024-01-15,Headset Gamer,1,520.0,Rio de Janeiro,RJ
+551,1450,2024-03-21,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+552,1348,2024-04-27,Notebook Air 13,3,4500.0,Recife,PE
+553,1735,2024-03-03,Headset Gamer,3,520.0,Curitiba,PR
+554,1133,2024-05-27,Mouse Wireless,5,120.0,Porto Alegre,RS
+555,1108,2024-03-02,Notebook Air 13,4,4500.0,São Paulo,SP
+556,1273,2024-03-28,Notebook Air 13,2,4500.0,São Paulo,SP
+557,1051,2024-02-26,Teclado Mecânico,5,380.0,Curitiba,PR
+558,1254,2024-06-17,Notebook Air 13,3,4500.0,Porto Alegre,RS
+559,1738,2024-03-01,Notebook Air 13,2,4500.0,Curitiba,PR
+560,1527,2024-03-31,Teclado Mecânico,3,380.0,Curitiba,PR
+561,1023,2024-01-18,Teclado Mecânico,5,380.0,Curitiba,PR
+562,1989,2024-02-16,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+563,1049,2024-01-10,Mouse Wireless,4,120.0,Porto Alegre,RS
+564,1903,2024-06-12,Headset Gamer,4,520.0,Belo Horizonte,MG
+565,1549,2024-01-02,Dock USB-C,1,280.0,Curitiba,PR
+566,1137,2024-06-20,Mouse Wireless,3,120.0,Recife,PE
+567,1412,2024-03-12,Notebook Pro 14,4,6500.0,São Paulo,SP
+568,1583,2024-04-19,Notebook Air 13,3,4500.0,Porto Alegre,RS
+569,1295,2024-01-15,Teclado Mecânico,5,380.0,Curitiba,PR
+570,1782,2024-04-16,Mouse Wireless,5,120.0,Salvador,BA
+571,1625,2024-01-24,Notebook Air 13,1,4500.0,Curitiba,PR
+572,1382,2024-06-03,Mouse Wireless,5,120.0,Belo Horizonte,MG
+573,1773,2024-01-29,Notebook Air 13,5,4500.0,Porto Alegre,RS
+574,1411,2024-04-07,Notebook Pro 14,1,6500.0,São Paulo,SP
+575,1140,2024-05-18,Mouse Wireless,4,120.0,Porto Alegre,RS
+576,1467,2024-01-29,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+577,1335,2024-06-29,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+578,1402,2024-04-29,Headset Gamer,3,520.0,Porto Alegre,RS
+579,1344,2024-04-08,Dock USB-C,5,280.0,Porto Alegre,RS
+580,1501,2024-05-17,"Monitor 27""",3,1450.0,Curitiba,PR
+581,1835,2024-01-04,Mouse Wireless,3,120.0,Salvador,BA
+582,1112,2024-03-21,"Monitor 27""",3,1450.0,Recife,PE
+583,1920,2024-05-20,Dock USB-C,1,280.0,Porto Alegre,RS
+584,1485,2024-02-21,Headset Gamer,5,520.0,Porto Alegre,RS
+585,1233,2024-05-20,Notebook Pro 14,5,6500.0,Curitiba,PR
+586,1174,2024-04-11,Headset Gamer,5,520.0,Recife,PE
+587,1861,2024-03-14,Notebook Air 13,2,4500.0,São Paulo,SP
+588,1586,2024-05-16,Notebook Pro 14,2,6500.0,São Paulo,SP
+589,1451,2024-03-01,Teclado Mecânico,2,380.0,Curitiba,PR
+590,1707,2024-02-09,Teclado Mecânico,5,380.0,Recife,PE
+591,1626,2024-06-27,Teclado Mecânico,1,380.0,Salvador,BA
+592,1141,2024-04-10,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+593,1678,2024-04-02,"Monitor 27""",4,1450.0,Belo Horizonte,MG
+594,1979,2024-02-03,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+595,1559,2024-03-09,Headset Gamer,3,520.0,Porto Alegre,RS
+596,1495,2024-02-07,Notebook Air 13,3,4500.0,Porto Alegre,RS
+597,1305,2024-02-13,Mouse Wireless,3,120.0,Salvador,BA
+598,1212,2024-05-14,Headset Gamer,4,520.0,Belo Horizonte,MG
+599,1491,2024-03-08,"Monitor 27""",3,1450.0,Belo Horizonte,MG
+600,1124,2024-04-21,Headset Gamer,5,520.0,Curitiba,PR
+601,1917,2024-03-17,Dock USB-C,3,280.0,Recife,PE
+602,1823,2024-01-29,Mouse Wireless,1,120.0,Belo Horizonte,MG
+603,1978,2024-05-18,Notebook Pro 14,3,6500.0,Curitiba,PR
+604,1671,2024-02-19,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+605,1206,2024-06-09,"Monitor 27""",3,1450.0,Porto Alegre,RS
+606,1712,2024-02-22,Notebook Air 13,1,4500.0,Porto Alegre,RS
+607,1758,2024-04-23,Notebook Air 13,2,4500.0,São Paulo,SP
+608,1685,2024-06-24,"Monitor 27""",2,1450.0,Salvador,BA
+609,1238,2024-01-11,Notebook Pro 14,4,6500.0,Belo Horizonte,MG
+610,1734,2024-04-01,Notebook Pro 14,2,6500.0,São Paulo,SP
+611,1987,2024-04-16,Notebook Air 13,4,4500.0,Salvador,BA
+612,1957,2024-06-20,Teclado Mecânico,4,380.0,Salvador,BA
+613,1204,2024-05-26,Mouse Wireless,3,120.0,Belo Horizonte,MG
+614,1661,2024-01-12,Dock USB-C,1,280.0,Salvador,BA
+615,1587,2024-02-15,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+616,1427,2024-06-20,Dock USB-C,2,280.0,São Paulo,SP
+617,1856,2024-03-18,Dock USB-C,4,280.0,Rio de Janeiro,RJ
+618,1959,2024-05-25,Dock USB-C,3,280.0,São Paulo,SP
+619,1009,2024-02-27,"Monitor 27""",5,1450.0,São Paulo,SP
+620,1950,2024-03-06,Mouse Wireless,4,120.0,Salvador,BA
+621,1556,2024-04-11,Teclado Mecânico,2,380.0,Recife,PE
+622,1516,2024-03-31,Mouse Wireless,2,120.0,Recife,PE
+623,1115,2024-03-05,Notebook Air 13,4,4500.0,Salvador,BA
+624,1263,2024-05-19,Notebook Air 13,1,4500.0,Salvador,BA
+625,1345,2024-06-02,Mouse Wireless,5,120.0,Salvador,BA
+626,1775,2024-02-07,Notebook Air 13,5,4500.0,Recife,PE
+627,1654,2024-06-23,Teclado Mecânico,4,380.0,Porto Alegre,RS
+628,1335,2024-01-17,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+629,1143,2024-04-02,Mouse Wireless,2,120.0,São Paulo,SP
+630,1267,2024-03-15,Notebook Air 13,4,4500.0,Recife,PE
+631,1273,2024-03-05,Mouse Wireless,5,120.0,Salvador,BA
+632,1586,2024-01-03,Mouse Wireless,3,120.0,Salvador,BA
+633,1241,2024-01-13,Headset Gamer,1,520.0,Curitiba,PR
+634,1314,2024-02-01,Teclado Mecânico,5,380.0,Salvador,BA
+635,1788,2024-03-01,Headset Gamer,1,520.0,Salvador,BA
+636,1938,2024-02-27,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+637,1224,2024-01-26,Teclado Mecânico,2,380.0,Curitiba,PR
+638,1765,2024-04-27,Mouse Wireless,4,120.0,Salvador,BA
+639,1562,2024-06-26,Teclado Mecânico,5,380.0,Recife,PE
+640,1680,2024-06-09,Notebook Air 13,2,4500.0,Salvador,BA
+641,1772,2024-04-25,Dock USB-C,1,280.0,Porto Alegre,RS
+642,1457,2024-04-12,Headset Gamer,3,520.0,São Paulo,SP
+643,1939,2024-04-19,Notebook Pro 14,1,6500.0,Recife,PE
+644,1560,2024-06-24,"Monitor 27""",2,1450.0,Porto Alegre,RS
+645,1549,2024-01-30,Notebook Air 13,3,4500.0,Recife,PE
+646,1532,2024-03-26,Notebook Pro 14,2,6500.0,Salvador,BA
+647,1597,2024-04-04,Notebook Pro 14,5,6500.0,Curitiba,PR
+648,1828,2024-01-11,Teclado Mecânico,2,380.0,Porto Alegre,RS
+649,1425,2024-03-29,"Monitor 27""",1,1450.0,Porto Alegre,RS
+650,1473,2024-05-10,Dock USB-C,3,280.0,Salvador,BA
+651,1022,2024-03-17,Mouse Wireless,1,120.0,Salvador,BA
+652,1223,2024-04-22,Notebook Pro 14,1,6500.0,Curitiba,PR
+653,1352,2024-05-16,Notebook Pro 14,5,6500.0,São Paulo,SP
+654,1957,2024-06-22,Notebook Pro 14,4,6500.0,São Paulo,SP
+655,1293,2024-03-20,Notebook Air 13,2,4500.0,Recife,PE
+656,1656,2024-05-21,Headset Gamer,4,520.0,Belo Horizonte,MG
+657,1912,2024-03-15,Teclado Mecânico,4,380.0,Curitiba,PR
+658,1082,2024-05-12,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+659,1669,2024-06-16,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+660,1550,2024-03-17,"Monitor 27""",2,1450.0,Salvador,BA
+661,1228,2024-06-11,Notebook Pro 14,1,6500.0,Belo Horizonte,MG
+662,1474,2024-05-10,Headset Gamer,5,520.0,Curitiba,PR
+663,1544,2024-03-14,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+664,1471,2024-03-08,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+665,1959,2024-06-18,Headset Gamer,1,520.0,São Paulo,SP
+666,1828,2024-05-08,Teclado Mecânico,5,380.0,Recife,PE
+667,1958,2024-06-20,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+668,1068,2024-01-20,"Monitor 27""",1,1450.0,Curitiba,PR
+669,1612,2024-05-10,Headset Gamer,1,520.0,Rio de Janeiro,RJ
+670,1758,2024-01-09,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+671,1552,2024-02-12,Dock USB-C,1,280.0,Rio de Janeiro,RJ
+672,1515,2024-02-26,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+673,1591,2024-04-26,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+674,1309,2024-06-19,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+675,1423,2024-02-28,Mouse Wireless,1,120.0,Porto Alegre,RS
+676,1971,2024-04-24,Headset Gamer,2,520.0,Salvador,BA
+677,1695,2024-03-23,"Monitor 27""",4,1450.0,São Paulo,SP
+678,1995,2024-03-07,Headset Gamer,4,520.0,Recife,PE
+679,1537,2024-03-02,Headset Gamer,4,520.0,Curitiba,PR
+680,1152,2024-02-28,Teclado Mecânico,2,380.0,Recife,PE
+681,1550,2024-04-01,Notebook Air 13,2,4500.0,Belo Horizonte,MG
+682,1878,2024-05-17,Notebook Air 13,4,4500.0,São Paulo,SP
+683,1575,2024-03-21,Teclado Mecânico,5,380.0,Porto Alegre,RS
+684,1137,2024-03-16,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+685,1338,2024-05-05,Notebook Pro 14,4,6500.0,Recife,PE
+686,1379,2024-01-18,"Monitor 27""",2,1450.0,São Paulo,SP
+687,1274,2024-03-14,Headset Gamer,5,520.0,Porto Alegre,RS
+688,1040,2024-06-18,Notebook Pro 14,2,6500.0,Recife,PE
+689,1779,2024-04-24,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+690,1490,2024-02-10,Dock USB-C,3,280.0,Belo Horizonte,MG
+691,1979,2024-06-25,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+692,1985,2024-05-23,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+693,1712,2024-04-27,Headset Gamer,2,520.0,Curitiba,PR
+694,1937,2024-02-16,"Monitor 27""",3,1450.0,Recife,PE
+695,1289,2024-03-14,Teclado Mecânico,5,380.0,Salvador,BA
+696,1367,2024-02-29,Mouse Wireless,3,120.0,Porto Alegre,RS
+697,1903,2024-04-06,Teclado Mecânico,1,380.0,Recife,PE
+698,1739,2024-04-01,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+699,1379,2024-03-01,Teclado Mecânico,1,380.0,Porto Alegre,RS
+700,1884,2024-02-12,Headset Gamer,2,520.0,São Paulo,SP
+701,1267,2024-04-17,"Monitor 27""",5,1450.0,Salvador,BA
+702,1427,2024-02-27,Notebook Air 13,2,4500.0,Belo Horizonte,MG
+703,1235,2024-03-14,"Monitor 27""",2,1450.0,Curitiba,PR
+704,1563,2024-05-07,Headset Gamer,3,520.0,Belo Horizonte,MG
+705,1781,2024-06-08,Teclado Mecânico,4,380.0,Curitiba,PR
+706,1172,2024-05-22,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+707,1143,2024-05-19,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+708,1938,2024-06-21,"Monitor 27""",1,1450.0,Porto Alegre,RS
+709,1034,2024-06-11,Dock USB-C,1,280.0,Recife,PE
+710,1684,2024-01-10,Dock USB-C,1,280.0,Curitiba,PR
+711,1140,2024-06-12,Headset Gamer,2,520.0,São Paulo,SP
+712,1724,2024-01-30,Notebook Pro 14,2,6500.0,Porto Alegre,RS
+713,1466,2024-03-13,Notebook Pro 14,5,6500.0,Salvador,BA
+714,1682,2024-06-30,"Monitor 27""",4,1450.0,Salvador,BA
+715,1499,2024-01-04,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+716,1421,2024-01-03,Notebook Pro 14,5,6500.0,Salvador,BA
+717,1281,2024-04-14,Mouse Wireless,1,120.0,Porto Alegre,RS
+718,1832,2024-05-15,Headset Gamer,4,520.0,Recife,PE
+719,1962,2024-06-25,Notebook Air 13,1,4500.0,São Paulo,SP
+720,1536,2024-01-29,Notebook Air 13,2,4500.0,Porto Alegre,RS
+721,1539,2024-02-19,Dock USB-C,3,280.0,Belo Horizonte,MG
+722,1814,2024-03-18,Notebook Pro 14,3,6500.0,Curitiba,PR
+723,1470,2024-04-19,Notebook Air 13,2,4500.0,Belo Horizonte,MG
+724,1700,2024-06-09,Dock USB-C,1,280.0,Salvador,BA
+725,1878,2024-05-06,Dock USB-C,1,280.0,São Paulo,SP
+726,1415,2024-03-14,Teclado Mecânico,5,380.0,Curitiba,PR
+727,1057,2024-05-03,Notebook Pro 14,2,6500.0,São Paulo,SP
+728,1511,2024-06-13,Teclado Mecânico,3,380.0,Porto Alegre,RS
+729,1878,2024-01-19,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+730,1216,2024-06-24,Dock USB-C,5,280.0,Curitiba,PR
+731,1277,2024-01-10,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+732,1577,2024-05-07,Notebook Pro 14,2,6500.0,Recife,PE
+733,1322,2024-01-04,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+734,1770,2024-06-08,Headset Gamer,4,520.0,São Paulo,SP
+735,1306,2024-02-01,"Monitor 27""",2,1450.0,Porto Alegre,RS
+736,1854,2024-06-13,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+737,1393,2024-05-26,Headset Gamer,2,520.0,Recife,PE
+738,1705,2024-05-20,Notebook Pro 14,5,6500.0,Salvador,BA
+739,1997,2024-03-08,Notebook Pro 14,1,6500.0,Curitiba,PR
+740,1237,2024-06-11,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+741,1787,2024-04-29,"Monitor 27""",4,1450.0,Recife,PE
+742,1334,2024-01-06,Headset Gamer,3,520.0,Recife,PE
+743,1461,2024-04-05,Notebook Air 13,3,4500.0,Porto Alegre,RS
+744,1963,2024-03-13,Teclado Mecânico,2,380.0,Salvador,BA
+745,1599,2024-05-08,Teclado Mecânico,1,380.0,Recife,PE
+746,1633,2024-02-27,Dock USB-C,2,280.0,Salvador,BA
+747,1075,2024-01-16,Mouse Wireless,2,120.0,Curitiba,PR
+748,1728,2024-06-01,Headset Gamer,2,520.0,Salvador,BA
+749,1398,2024-03-02,Mouse Wireless,1,120.0,São Paulo,SP
+750,1005,2024-02-29,Teclado Mecânico,3,380.0,Recife,PE
+751,1276,2024-01-20,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+752,1441,2024-03-28,"Monitor 27""",5,1450.0,Porto Alegre,RS
+753,1417,2024-01-21,Notebook Pro 14,1,6500.0,Belo Horizonte,MG
+754,1567,2024-01-19,"Monitor 27""",5,1450.0,Recife,PE
+755,1332,2024-06-16,Teclado Mecânico,1,380.0,Belo Horizonte,MG
+756,1423,2024-03-16,Dock USB-C,1,280.0,Salvador,BA
+757,1922,2024-04-18,Notebook Air 13,5,4500.0,Porto Alegre,RS
+758,1173,2024-05-13,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+759,1275,2024-02-28,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+760,1064,2024-02-02,Teclado Mecânico,3,380.0,Curitiba,PR
+761,1306,2024-04-04,Dock USB-C,1,280.0,Belo Horizonte,MG
+762,1257,2024-02-17,Headset Gamer,4,520.0,Porto Alegre,RS
+763,1631,2024-02-07,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+764,1311,2024-01-02,Teclado Mecânico,3,380.0,Recife,PE
+765,1635,2024-03-14,Dock USB-C,3,280.0,Curitiba,PR
+766,1342,2024-03-24,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+767,1307,2024-03-03,"Monitor 27""",2,1450.0,Curitiba,PR
+768,1321,2024-02-04,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+769,1752,2024-05-14,Headset Gamer,4,520.0,Porto Alegre,RS
+770,1800,2024-02-17,Mouse Wireless,4,120.0,Belo Horizonte,MG
+771,1836,2024-06-01,Teclado Mecânico,3,380.0,São Paulo,SP
+772,1954,2024-04-19,Notebook Air 13,5,4500.0,Porto Alegre,RS
+773,1184,2024-05-12,Dock USB-C,5,280.0,São Paulo,SP
+774,1975,2024-05-21,Teclado Mecânico,2,380.0,Curitiba,PR
+775,1816,2024-02-26,Dock USB-C,1,280.0,Recife,PE
+776,1868,2024-06-03,Dock USB-C,4,280.0,Salvador,BA
+777,1511,2024-01-28,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+778,1258,2024-05-07,Notebook Air 13,4,4500.0,Recife,PE
+779,1386,2024-01-15,Teclado Mecânico,5,380.0,Curitiba,PR
+780,1596,2024-03-18,"Monitor 27""",5,1450.0,Recife,PE
+781,1708,2024-03-22,"Monitor 27""",1,1450.0,Recife,PE
+782,1991,2024-03-10,Headset Gamer,5,520.0,Porto Alegre,RS
+783,1653,2024-06-26,Notebook Pro 14,1,6500.0,Recife,PE
+784,1254,2024-05-07,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+785,1662,2024-04-28,Notebook Pro 14,5,6500.0,Salvador,BA
+786,1693,2024-05-05,Teclado Mecânico,3,380.0,Recife,PE
+787,1440,2024-01-21,Notebook Pro 14,1,6500.0,Belo Horizonte,MG
+788,1227,2024-04-09,Headset Gamer,5,520.0,Porto Alegre,RS
+789,1594,2024-05-13,"Monitor 27""",2,1450.0,Curitiba,PR
+790,1383,2024-03-16,Teclado Mecânico,5,380.0,Salvador,BA
+791,1512,2024-01-30,Mouse Wireless,1,120.0,Curitiba,PR
+792,1107,2024-02-27,Teclado Mecânico,1,380.0,São Paulo,SP
+793,1851,2024-05-21,Notebook Air 13,3,4500.0,Belo Horizonte,MG
+794,1351,2024-03-29,Dock USB-C,2,280.0,Porto Alegre,RS
+795,1494,2024-03-08,Teclado Mecânico,1,380.0,Curitiba,PR
+796,1739,2024-05-15,Teclado Mecânico,3,380.0,São Paulo,SP
+797,1307,2024-01-09,Dock USB-C,1,280.0,São Paulo,SP
+798,1869,2024-03-07,Headset Gamer,1,520.0,Salvador,BA
+799,1819,2024-02-01,Headset Gamer,2,520.0,Porto Alegre,RS
+800,1178,2024-04-17,Notebook Air 13,3,4500.0,Porto Alegre,RS
+801,1436,2024-03-30,Notebook Air 13,4,4500.0,Salvador,BA
+802,1188,2024-02-06,Headset Gamer,4,520.0,Curitiba,PR
+803,1029,2024-05-23,"Monitor 27""",2,1450.0,Curitiba,PR
+804,1606,2024-03-24,Teclado Mecânico,1,380.0,Salvador,BA
+805,1219,2024-02-09,Mouse Wireless,1,120.0,Porto Alegre,RS
+806,1104,2024-06-04,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+807,1374,2024-03-04,Notebook Air 13,4,4500.0,São Paulo,SP
+808,1268,2024-05-10,Dock USB-C,4,280.0,Porto Alegre,RS
+809,1989,2024-05-04,Mouse Wireless,5,120.0,Curitiba,PR
+810,1625,2024-03-17,"Monitor 27""",1,1450.0,Belo Horizonte,MG
+811,1360,2024-06-13,Teclado Mecânico,5,380.0,Rio de Janeiro,RJ
+812,1833,2024-05-10,Headset Gamer,3,520.0,Porto Alegre,RS
+813,1604,2024-01-17,Headset Gamer,2,520.0,Belo Horizonte,MG
+814,1120,2024-02-16,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+815,1382,2024-05-14,Notebook Air 13,5,4500.0,Curitiba,PR
+816,1428,2024-04-25,Notebook Air 13,5,4500.0,Curitiba,PR
+817,1433,2024-02-06,Teclado Mecânico,5,380.0,Salvador,BA
+818,1941,2024-05-05,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+819,1501,2024-02-26,Notebook Air 13,2,4500.0,Belo Horizonte,MG
+820,1862,2024-03-28,"Monitor 27""",1,1450.0,Recife,PE
+821,1367,2024-01-02,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+822,1834,2024-03-15,"Monitor 27""",5,1450.0,Salvador,BA
+823,1506,2024-03-20,Headset Gamer,4,520.0,Curitiba,PR
+824,1727,2024-06-12,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+825,1084,2024-04-19,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+826,1033,2024-02-23,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+827,1172,2024-05-31,Teclado Mecânico,5,380.0,Salvador,BA
+828,1791,2024-05-28,Teclado Mecânico,5,380.0,Porto Alegre,RS
+829,1115,2024-04-21,Notebook Pro 14,3,6500.0,Recife,PE
+830,1556,2024-06-08,Mouse Wireless,5,120.0,Recife,PE
+831,1774,2024-01-09,Dock USB-C,4,280.0,Porto Alegre,RS
+832,1223,2024-03-23,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+833,1895,2024-01-07,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+834,1882,2024-06-07,Notebook Pro 14,4,6500.0,Recife,PE
+835,1120,2024-05-30,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+836,1830,2024-05-23,"Monitor 27""",3,1450.0,Recife,PE
+837,1727,2024-04-28,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+838,1630,2024-01-28,Dock USB-C,2,280.0,Recife,PE
+839,1211,2024-06-05,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+840,1545,2024-02-24,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+841,1331,2024-05-16,Mouse Wireless,3,120.0,Porto Alegre,RS
+842,1273,2024-06-15,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+843,1985,2024-05-25,Dock USB-C,4,280.0,São Paulo,SP
+844,1283,2024-06-17,Headset Gamer,2,520.0,Salvador,BA
+845,1886,2024-01-26,Notebook Air 13,2,4500.0,Salvador,BA
+846,1329,2024-06-09,Notebook Air 13,4,4500.0,Curitiba,PR
+847,1145,2024-04-22,Headset Gamer,3,520.0,Salvador,BA
+848,1424,2024-03-13,Teclado Mecânico,1,380.0,Salvador,BA
+849,1813,2024-06-19,Dock USB-C,1,280.0,Curitiba,PR
+850,1527,2024-05-25,Mouse Wireless,3,120.0,Curitiba,PR
+851,1973,2024-04-04,Mouse Wireless,5,120.0,São Paulo,SP
+852,1889,2024-05-30,Dock USB-C,1,280.0,Salvador,BA
+853,1995,2024-03-30,Headset Gamer,3,520.0,Recife,PE
+854,1064,2024-06-03,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+855,1991,2024-03-24,Dock USB-C,2,280.0,Curitiba,PR
+856,1274,2024-03-03,Dock USB-C,3,280.0,Belo Horizonte,MG
+857,1560,2024-04-22,Notebook Air 13,5,4500.0,Recife,PE
+858,1496,2024-06-02,Mouse Wireless,1,120.0,São Paulo,SP
+859,1101,2024-05-01,Dock USB-C,4,280.0,São Paulo,SP
+860,1127,2024-06-29,Dock USB-C,2,280.0,Curitiba,PR
+861,1467,2024-01-01,Teclado Mecânico,2,380.0,Salvador,BA
+862,1931,2024-01-26,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+863,1895,2024-06-30,Mouse Wireless,1,120.0,Salvador,BA
+864,1369,2024-02-18,Notebook Pro 14,3,6500.0,Salvador,BA
+865,1925,2024-05-06,Notebook Air 13,1,4500.0,Curitiba,PR
+866,1640,2024-02-29,Headset Gamer,2,520.0,Curitiba,PR
+867,1671,2024-01-18,Headset Gamer,1,520.0,São Paulo,SP
+868,1218,2024-04-02,Notebook Pro 14,2,6500.0,Porto Alegre,RS
+869,1231,2024-04-10,Headset Gamer,4,520.0,São Paulo,SP
+870,1008,2024-05-15,Mouse Wireless,1,120.0,Recife,PE
+871,1432,2024-05-14,Notebook Air 13,4,4500.0,São Paulo,SP
+872,1234,2024-03-15,Notebook Pro 14,1,6500.0,São Paulo,SP
+873,1320,2024-03-12,Mouse Wireless,2,120.0,Curitiba,PR
+874,1792,2024-06-06,Dock USB-C,2,280.0,Salvador,BA
+875,1693,2024-01-28,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+876,1008,2024-04-28,Headset Gamer,2,520.0,Curitiba,PR
+877,1359,2024-05-20,Notebook Air 13,2,4500.0,Curitiba,PR
+878,1630,2024-05-13,Teclado Mecânico,2,380.0,São Paulo,SP
+879,1918,2024-01-20,Notebook Air 13,1,4500.0,Porto Alegre,RS
+880,1747,2024-03-15,Mouse Wireless,4,120.0,Belo Horizonte,MG
+881,1810,2024-01-28,Notebook Air 13,3,4500.0,Salvador,BA
+882,1086,2024-02-18,"Monitor 27""",5,1450.0,Porto Alegre,RS
+883,1738,2024-04-27,Mouse Wireless,1,120.0,Recife,PE
+884,1867,2024-05-07,Mouse Wireless,2,120.0,Porto Alegre,RS
+885,1621,2024-04-08,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+886,1661,2024-01-11,Dock USB-C,2,280.0,Curitiba,PR
+887,1395,2024-01-22,Notebook Air 13,4,4500.0,Salvador,BA
+888,1608,2024-01-14,"Monitor 27""",1,1450.0,Belo Horizonte,MG
+889,1956,2024-03-02,Notebook Air 13,4,4500.0,Recife,PE
+890,1859,2024-04-20,Teclado Mecânico,3,380.0,Porto Alegre,RS
+891,1699,2024-02-03,Dock USB-C,4,280.0,Recife,PE
+892,1074,2024-01-04,"Monitor 27""",1,1450.0,São Paulo,SP
+893,1268,2024-02-11,Notebook Pro 14,1,6500.0,Recife,PE
+894,1407,2024-04-08,Mouse Wireless,5,120.0,Recife,PE
+895,1425,2024-03-23,Headset Gamer,4,520.0,São Paulo,SP
+896,1655,2024-04-14,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+897,1284,2024-01-17,Mouse Wireless,1,120.0,Porto Alegre,RS
+898,1943,2024-02-09,Dock USB-C,2,280.0,Porto Alegre,RS
+899,1334,2024-03-16,"Monitor 27""",1,1450.0,Belo Horizonte,MG
+900,1715,2024-03-25,Headset Gamer,2,520.0,São Paulo,SP
+901,1250,2024-01-17,Teclado Mecânico,1,380.0,Curitiba,PR
+902,1626,2024-04-28,Notebook Pro 14,3,6500.0,Salvador,BA
+903,1759,2024-05-07,Headset Gamer,2,520.0,São Paulo,SP
+904,1012,2024-05-17,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+905,1508,2024-03-08,"Monitor 27""",5,1450.0,Recife,PE
+906,1842,2024-05-19,Mouse Wireless,2,120.0,Belo Horizonte,MG
+907,1129,2024-05-25,Dock USB-C,3,280.0,Salvador,BA
+908,1907,2024-01-23,Dock USB-C,1,280.0,Belo Horizonte,MG
+909,1826,2024-03-24,Mouse Wireless,5,120.0,São Paulo,SP
+910,1269,2024-05-18,"Monitor 27""",1,1450.0,Curitiba,PR
+911,1466,2024-04-09,Mouse Wireless,1,120.0,Curitiba,PR
+912,1879,2024-04-20,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+913,1261,2024-05-30,Notebook Pro 14,5,6500.0,Salvador,BA
+914,1740,2024-01-23,Notebook Air 13,5,4500.0,São Paulo,SP
+915,1045,2024-06-15,Dock USB-C,1,280.0,Rio de Janeiro,RJ
+916,1047,2024-04-01,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+917,1183,2024-06-29,Dock USB-C,1,280.0,Porto Alegre,RS
+918,1822,2024-06-26,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+919,1329,2024-02-18,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+920,1845,2024-01-16,"Monitor 27""",3,1450.0,São Paulo,SP
+921,1514,2024-05-10,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+922,1823,2024-04-10,Notebook Pro 14,4,6500.0,São Paulo,SP
+923,1898,2024-03-31,Dock USB-C,3,280.0,Recife,PE
+924,1865,2024-03-01,Mouse Wireless,1,120.0,Porto Alegre,RS
+925,1467,2024-01-02,Mouse Wireless,2,120.0,Belo Horizonte,MG
+926,1577,2024-06-01,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+927,1475,2024-03-12,"Monitor 27""",4,1450.0,Recife,PE
+928,1794,2024-02-07,Headset Gamer,5,520.0,Recife,PE
+929,1815,2024-02-17,Notebook Air 13,1,4500.0,Curitiba,PR
+930,1024,2024-02-15,"Monitor 27""",3,1450.0,Salvador,BA
+931,1859,2024-05-14,Notebook Pro 14,3,6500.0,São Paulo,SP
+932,1777,2024-05-07,Teclado Mecânico,3,380.0,São Paulo,SP
+933,1210,2024-04-12,Notebook Air 13,4,4500.0,Curitiba,PR
+934,1984,2024-01-12,Notebook Air 13,3,4500.0,São Paulo,SP
+935,1044,2024-06-27,Notebook Air 13,5,4500.0,Curitiba,PR
+936,1717,2024-06-22,Mouse Wireless,4,120.0,Salvador,BA
+937,1086,2024-04-22,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+938,1652,2024-06-08,Teclado Mecânico,1,380.0,Porto Alegre,RS
+939,1581,2024-01-13,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+940,1298,2024-02-20,Dock USB-C,3,280.0,Recife,PE
+941,1402,2024-05-16,Dock USB-C,3,280.0,Belo Horizonte,MG
+942,1463,2024-02-22,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+943,1139,2024-05-31,Dock USB-C,5,280.0,São Paulo,SP
+944,1159,2024-01-21,Notebook Air 13,4,4500.0,Curitiba,PR
+945,1321,2024-03-19,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+946,1987,2024-05-29,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+947,1474,2024-02-21,Dock USB-C,1,280.0,São Paulo,SP
+948,1161,2024-06-05,Headset Gamer,3,520.0,Recife,PE
+949,1721,2024-05-15,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+950,1855,2024-06-15,Mouse Wireless,2,120.0,São Paulo,SP
+951,1728,2024-02-18,Mouse Wireless,4,120.0,Porto Alegre,RS
+952,1050,2024-05-11,Mouse Wireless,3,120.0,Recife,PE
+953,1178,2024-01-07,Teclado Mecânico,4,380.0,Porto Alegre,RS
+954,1766,2024-04-16,Notebook Air 13,1,4500.0,Curitiba,PR
+955,1104,2024-06-05,Dock USB-C,2,280.0,São Paulo,SP
+956,1012,2024-01-12,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+957,1202,2024-06-08,Teclado Mecânico,3,380.0,Salvador,BA
+958,1645,2024-05-05,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+959,1265,2024-06-27,Dock USB-C,1,280.0,São Paulo,SP
+960,1066,2024-02-08,Headset Gamer,4,520.0,Recife,PE
+961,1131,2024-01-18,Dock USB-C,3,280.0,São Paulo,SP
+962,1043,2024-03-30,Notebook Pro 14,2,6500.0,Porto Alegre,RS
+963,1443,2024-06-08,Headset Gamer,4,520.0,Curitiba,PR
+964,1030,2024-03-15,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+965,1362,2024-02-11,Notebook Air 13,3,4500.0,Belo Horizonte,MG
+966,1456,2024-06-20,Notebook Air 13,1,4500.0,Porto Alegre,RS
+967,1634,2024-04-29,Notebook Air 13,3,4500.0,Curitiba,PR
+968,1421,2024-06-20,"Monitor 27""",4,1450.0,São Paulo,SP
+969,1089,2024-02-24,Teclado Mecânico,2,380.0,Curitiba,PR
+970,1204,2024-05-04,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+971,1645,2024-06-04,"Monitor 27""",1,1450.0,Curitiba,PR
+972,1800,2024-05-18,Mouse Wireless,4,120.0,Porto Alegre,RS
+973,1800,2024-04-04,Mouse Wireless,5,120.0,Porto Alegre,RS
+974,1329,2024-03-16,Mouse Wireless,2,120.0,São Paulo,SP
+975,1326,2024-04-25,Notebook Air 13,1,4500.0,Recife,PE
+976,1797,2024-02-24,Notebook Pro 14,4,6500.0,Porto Alegre,RS
+977,1366,2024-05-28,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+978,1102,2024-02-18,Headset Gamer,2,520.0,Belo Horizonte,MG
+979,1546,2024-06-07,Dock USB-C,1,280.0,Recife,PE
+980,1970,2024-02-12,"Monitor 27""",4,1450.0,Belo Horizonte,MG
+981,1957,2024-06-11,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+982,1242,2024-04-25,Mouse Wireless,3,120.0,Porto Alegre,RS
+983,1028,2024-05-16,Headset Gamer,3,520.0,Porto Alegre,RS
+984,1577,2024-01-28,"Monitor 27""",2,1450.0,Recife,PE
+985,1829,2024-06-20,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+986,1179,2024-04-05,Notebook Pro 14,1,6500.0,São Paulo,SP
+987,1238,2024-04-26,Notebook Air 13,1,4500.0,Porto Alegre,RS
+988,1489,2024-01-01,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+989,1825,2024-01-26,Mouse Wireless,2,120.0,Recife,PE
+990,1864,2024-06-17,Mouse Wireless,1,120.0,São Paulo,SP
+991,1151,2024-04-23,Headset Gamer,2,520.0,Recife,PE
+992,1113,2024-06-13,"Monitor 27""",3,1450.0,São Paulo,SP
+993,1382,2024-05-16,Headset Gamer,4,520.0,Porto Alegre,RS
+994,1103,2024-03-06,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+995,1999,2024-01-31,Headset Gamer,4,520.0,Recife,PE
+996,1654,2024-04-04,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+997,1724,2024-04-19,Headset Gamer,5,520.0,Recife,PE
+998,1365,2024-02-13,Headset Gamer,5,520.0,Recife,PE
+999,1179,2024-03-14,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1000,1181,2024-05-21,Notebook Pro 14,5,6500.0,Curitiba,PR
+1001,1871,2024-05-29,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+1002,1616,2024-03-02,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+1003,1654,2024-04-19,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+1004,1339,2024-05-24,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+1005,1327,2024-02-02,Headset Gamer,1,520.0,Recife,PE
+1006,1725,2024-05-10,Headset Gamer,3,520.0,Curitiba,PR
+1007,1011,2024-02-21,Notebook Air 13,2,4500.0,Salvador,BA
+1008,1069,2024-03-09,Mouse Wireless,1,120.0,Salvador,BA
+1009,1001,2024-01-10,Teclado Mecânico,4,380.0,Salvador,BA
+1010,1429,2024-02-02,Teclado Mecânico,4,380.0,Curitiba,PR
+1011,1359,2024-04-16,Teclado Mecânico,1,380.0,Recife,PE
+1012,1490,2024-06-02,Dock USB-C,5,280.0,Salvador,BA
+1013,1776,2024-05-13,Notebook Air 13,2,4500.0,Curitiba,PR
+1014,1075,2024-06-04,Dock USB-C,1,280.0,Belo Horizonte,MG
+1015,1020,2024-03-02,Mouse Wireless,1,120.0,São Paulo,SP
+1016,1350,2024-02-03,Teclado Mecânico,2,380.0,Salvador,BA
+1017,1076,2024-04-16,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+1018,1628,2024-06-22,Teclado Mecânico,1,380.0,Curitiba,PR
+1019,1965,2024-05-06,Notebook Air 13,5,4500.0,Curitiba,PR
+1020,1160,2024-01-11,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+1021,1997,2024-02-06,Teclado Mecânico,5,380.0,Salvador,BA
+1022,1947,2024-05-21,"Monitor 27""",3,1450.0,Salvador,BA
+1023,1288,2024-02-27,Notebook Air 13,1,4500.0,São Paulo,SP
+1024,1402,2024-04-21,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+1025,1055,2024-03-11,Notebook Pro 14,4,6500.0,São Paulo,SP
+1026,1301,2024-06-08,Headset Gamer,5,520.0,Curitiba,PR
+1027,1204,2024-01-19,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1028,1653,2024-02-26,Notebook Pro 14,4,6500.0,Recife,PE
+1029,1118,2024-02-29,Dock USB-C,4,280.0,Curitiba,PR
+1030,1500,2024-06-22,Headset Gamer,3,520.0,São Paulo,SP
+1031,1657,2024-04-15,Teclado Mecânico,2,380.0,Belo Horizonte,MG
+1032,1906,2024-03-15,Mouse Wireless,2,120.0,Curitiba,PR
+1033,1045,2024-02-21,Teclado Mecânico,4,380.0,Belo Horizonte,MG
+1034,1231,2024-06-11,Mouse Wireless,5,120.0,São Paulo,SP
+1035,1154,2024-05-26,Headset Gamer,1,520.0,São Paulo,SP
+1036,1684,2024-03-07,Dock USB-C,5,280.0,Curitiba,PR
+1037,1994,2024-05-26,"Monitor 27""",2,1450.0,Porto Alegre,RS
+1038,1062,2024-06-12,Teclado Mecânico,5,380.0,Curitiba,PR
+1039,1988,2024-04-13,Headset Gamer,4,520.0,Porto Alegre,RS
+1040,1902,2024-02-15,Teclado Mecânico,3,380.0,São Paulo,SP
+1041,1404,2024-06-24,Dock USB-C,1,280.0,Porto Alegre,RS
+1042,1584,2024-06-23,"Monitor 27""",5,1450.0,Salvador,BA
+1043,1635,2024-01-29,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+1044,1971,2024-02-02,Notebook Air 13,2,4500.0,Rio de Janeiro,RJ
+1045,1043,2024-03-23,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+1046,1842,2024-05-01,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+1047,1327,2024-06-25,Headset Gamer,1,520.0,São Paulo,SP
+1048,1397,2024-04-18,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+1049,1877,2024-02-23,"Monitor 27""",4,1450.0,Recife,PE
+1050,1012,2024-06-01,Headset Gamer,5,520.0,Porto Alegre,RS
+1051,1535,2024-05-31,Teclado Mecânico,1,380.0,Curitiba,PR
+1052,1153,2024-01-29,"Monitor 27""",5,1450.0,Porto Alegre,RS
+1053,1776,2024-01-20,Notebook Pro 14,5,6500.0,Recife,PE
+1054,1103,2024-06-01,Mouse Wireless,5,120.0,Belo Horizonte,MG
+1055,1898,2024-03-20,Mouse Wireless,4,120.0,Salvador,BA
+1056,1497,2024-04-21,"Monitor 27""",4,1450.0,São Paulo,SP
+1057,1176,2024-02-23,Teclado Mecânico,2,380.0,Porto Alegre,RS
+1058,1623,2024-05-12,Headset Gamer,4,520.0,São Paulo,SP
+1059,1405,2024-06-21,Mouse Wireless,2,120.0,São Paulo,SP
+1060,1763,2024-04-02,Mouse Wireless,3,120.0,São Paulo,SP
+1061,1345,2024-06-07,Dock USB-C,3,280.0,Belo Horizonte,MG
+1062,1287,2024-06-12,Teclado Mecânico,1,380.0,Recife,PE
+1063,1233,2024-01-27,Mouse Wireless,4,120.0,Recife,PE
+1064,1845,2024-03-03,Mouse Wireless,4,120.0,Porto Alegre,RS
+1065,1661,2024-01-18,Notebook Air 13,4,4500.0,Rio de Janeiro,RJ
+1066,1935,2024-06-08,Teclado Mecânico,4,380.0,Recife,PE
+1067,1528,2024-06-17,Mouse Wireless,1,120.0,Porto Alegre,RS
+1068,1810,2024-01-31,Notebook Pro 14,3,6500.0,Salvador,BA
+1069,1518,2024-03-19,Notebook Air 13,5,4500.0,Porto Alegre,RS
+1070,1029,2024-02-03,Notebook Air 13,2,4500.0,Recife,PE
+1071,1059,2024-02-18,Notebook Pro 14,4,6500.0,São Paulo,SP
+1072,1940,2024-03-10,Headset Gamer,2,520.0,Belo Horizonte,MG
+1073,1377,2024-06-08,Teclado Mecânico,5,380.0,Curitiba,PR
+1074,1650,2024-06-28,Notebook Pro 14,1,6500.0,Rio de Janeiro,RJ
+1075,1381,2024-04-04,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+1076,1983,2024-06-18,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1077,1358,2024-03-07,Notebook Air 13,3,4500.0,Salvador,BA
+1078,1850,2024-05-13,Notebook Pro 14,3,6500.0,São Paulo,SP
+1079,1395,2024-01-10,Notebook Air 13,5,4500.0,Recife,PE
+1080,1988,2024-02-11,Dock USB-C,2,280.0,Salvador,BA
+1081,1230,2024-05-11,Notebook Air 13,3,4500.0,Salvador,BA
+1082,1419,2024-04-09,Notebook Pro 14,1,6500.0,Curitiba,PR
+1083,1933,2024-01-26,Headset Gamer,2,520.0,Porto Alegre,RS
+1084,1820,2024-01-02,Notebook Air 13,3,4500.0,Porto Alegre,RS
+1085,1824,2024-02-29,Headset Gamer,3,520.0,Curitiba,PR
+1086,1916,2024-03-14,Dock USB-C,3,280.0,Curitiba,PR
+1087,1258,2024-02-12,Teclado Mecânico,3,380.0,Salvador,BA
+1088,1533,2024-06-09,"Monitor 27""",4,1450.0,Porto Alegre,RS
+1089,1104,2024-01-02,"Monitor 27""",3,1450.0,Porto Alegre,RS
+1090,1662,2024-04-25,"Monitor 27""",3,1450.0,Belo Horizonte,MG
+1091,1700,2024-01-21,Teclado Mecânico,1,380.0,Belo Horizonte,MG
+1092,1283,2024-05-04,Mouse Wireless,3,120.0,Belo Horizonte,MG
+1093,1671,2024-05-18,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+1094,1153,2024-04-10,Dock USB-C,2,280.0,São Paulo,SP
+1095,1824,2024-06-15,Dock USB-C,5,280.0,Curitiba,PR
+1096,1676,2024-03-03,Headset Gamer,2,520.0,Salvador,BA
+1097,1026,2024-05-07,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+1098,1928,2024-03-22,Teclado Mecânico,4,380.0,Salvador,BA
+1099,1036,2024-04-23,Headset Gamer,5,520.0,Recife,PE
+1100,1194,2024-03-07,Headset Gamer,2,520.0,Salvador,BA
+1101,1547,2024-05-03,Dock USB-C,4,280.0,Salvador,BA
+1102,1367,2024-04-08,Mouse Wireless,2,120.0,Recife,PE
+1103,1673,2024-06-19,"Monitor 27""",2,1450.0,Belo Horizonte,MG
+1104,1099,2024-04-01,Notebook Air 13,3,4500.0,Salvador,BA
+1105,1827,2024-04-18,Dock USB-C,2,280.0,Salvador,BA
+1106,1921,2024-03-06,Headset Gamer,1,520.0,Rio de Janeiro,RJ
+1107,1363,2024-02-13,Headset Gamer,3,520.0,Curitiba,PR
+1108,1807,2024-06-21,Mouse Wireless,3,120.0,Belo Horizonte,MG
+1109,1599,2024-02-27,Teclado Mecânico,1,380.0,Curitiba,PR
+1110,1054,2024-06-17,Headset Gamer,5,520.0,Porto Alegre,RS
+1111,1966,2024-04-30,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+1112,1512,2024-01-24,Dock USB-C,4,280.0,Porto Alegre,RS
+1113,1305,2024-03-21,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1114,1205,2024-03-07,Teclado Mecânico,5,380.0,Curitiba,PR
+1115,1146,2024-03-02,Dock USB-C,2,280.0,Recife,PE
+1116,1082,2024-04-04,Mouse Wireless,2,120.0,Belo Horizonte,MG
+1117,1649,2024-01-12,Notebook Pro 14,4,6500.0,Belo Horizonte,MG
+1118,1214,2024-05-27,Dock USB-C,2,280.0,Porto Alegre,RS
+1119,1782,2024-01-31,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+1120,1629,2024-03-25,Headset Gamer,4,520.0,Curitiba,PR
+1121,1439,2024-04-02,Teclado Mecânico,1,380.0,São Paulo,SP
+1122,1546,2024-02-08,Headset Gamer,3,520.0,São Paulo,SP
+1123,1913,2024-03-03,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+1124,1018,2024-05-11,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1125,1710,2024-06-19,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1126,1105,2024-03-15,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+1127,1171,2024-01-13,Dock USB-C,1,280.0,Belo Horizonte,MG
+1128,1971,2024-02-26,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1129,1536,2024-03-06,Teclado Mecânico,2,380.0,Belo Horizonte,MG
+1130,1923,2024-04-05,Mouse Wireless,2,120.0,Rio de Janeiro,RJ
+1131,1970,2024-06-25,Dock USB-C,4,280.0,São Paulo,SP
+1132,1233,2024-02-13,Headset Gamer,2,520.0,Rio de Janeiro,RJ
+1133,1751,2024-01-05,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+1134,1126,2024-03-12,Headset Gamer,1,520.0,Curitiba,PR
+1135,1897,2024-05-04,Mouse Wireless,5,120.0,Porto Alegre,RS
+1136,1049,2024-04-25,Notebook Pro 14,1,6500.0,Salvador,BA
+1137,1856,2024-01-04,Notebook Pro 14,1,6500.0,Curitiba,PR
+1138,1454,2024-03-14,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+1139,1485,2024-05-16,Notebook Air 13,2,4500.0,Salvador,BA
+1140,1702,2024-05-02,Notebook Pro 14,3,6500.0,Curitiba,PR
+1141,1677,2024-01-20,Headset Gamer,5,520.0,Belo Horizonte,MG
+1142,1637,2024-04-27,Headset Gamer,2,520.0,Curitiba,PR
+1143,1850,2024-06-23,Notebook Pro 14,5,6500.0,Salvador,BA
+1144,1632,2024-01-23,Mouse Wireless,1,120.0,Recife,PE
+1145,1108,2024-04-06,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+1146,1796,2024-02-21,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+1147,1366,2024-05-16,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+1148,1040,2024-04-16,Teclado Mecânico,2,380.0,Salvador,BA
+1149,1955,2024-04-03,Mouse Wireless,2,120.0,São Paulo,SP
+1150,1013,2024-05-10,Notebook Pro 14,1,6500.0,Recife,PE
+1151,1587,2024-05-09,Teclado Mecânico,2,380.0,São Paulo,SP
+1152,1798,2024-04-09,Notebook Pro 14,1,6500.0,Belo Horizonte,MG
+1153,1659,2024-02-14,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+1154,1475,2024-01-10,Notebook Pro 14,2,6500.0,Recife,PE
+1155,1040,2024-06-14,Mouse Wireless,3,120.0,Recife,PE
+1156,1693,2024-03-01,Teclado Mecânico,1,380.0,São Paulo,SP
+1157,1871,2024-05-27,Notebook Pro 14,1,6500.0,Recife,PE
+1158,1141,2024-05-08,Headset Gamer,2,520.0,Belo Horizonte,MG
+1159,1366,2024-06-22,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+1160,1899,2024-05-22,Notebook Pro 14,3,6500.0,Recife,PE
+1161,1350,2024-02-05,Notebook Pro 14,4,6500.0,Curitiba,PR
+1162,1985,2024-03-29,Mouse Wireless,4,120.0,Salvador,BA
+1163,1871,2024-04-02,Dock USB-C,4,280.0,Salvador,BA
+1164,1907,2024-06-03,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+1165,1712,2024-05-21,Notebook Pro 14,2,6500.0,São Paulo,SP
+1166,1426,2024-06-25,"Monitor 27""",4,1450.0,Recife,PE
+1167,1582,2024-05-11,Teclado Mecânico,2,380.0,Porto Alegre,RS
+1168,1388,2024-05-31,Mouse Wireless,5,120.0,São Paulo,SP
+1169,1883,2024-05-12,Dock USB-C,2,280.0,Curitiba,PR
+1170,1942,2024-04-04,Notebook Pro 14,4,6500.0,Curitiba,PR
+1171,1047,2024-01-13,Mouse Wireless,3,120.0,São Paulo,SP
+1172,1721,2024-06-17,Headset Gamer,5,520.0,Recife,PE
+1173,1761,2024-04-21,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+1174,1978,2024-05-10,Dock USB-C,3,280.0,Porto Alegre,RS
+1175,1535,2024-05-13,Headset Gamer,5,520.0,São Paulo,SP
+1176,1443,2024-05-08,Headset Gamer,2,520.0,Curitiba,PR
+1177,1354,2024-05-08,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+1178,1859,2024-06-09,"Monitor 27""",5,1450.0,São Paulo,SP
+1179,1011,2024-05-04,Notebook Air 13,5,4500.0,Recife,PE
+1180,1480,2024-06-14,Teclado Mecânico,2,380.0,São Paulo,SP
+1181,1769,2024-04-05,Mouse Wireless,2,120.0,Belo Horizonte,MG
+1182,1993,2024-02-24,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+1183,1563,2024-05-04,Teclado Mecânico,4,380.0,Recife,PE
+1184,1240,2024-01-16,Teclado Mecânico,4,380.0,Recife,PE
+1185,1586,2024-03-28,Notebook Pro 14,4,6500.0,Curitiba,PR
+1186,1323,2024-01-24,Teclado Mecânico,1,380.0,São Paulo,SP
+1187,1413,2024-03-21,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+1188,1000,2024-06-09,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+1189,1652,2024-02-29,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+1190,1670,2024-05-10,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+1191,1845,2024-01-11,Dock USB-C,2,280.0,Recife,PE
+1192,1465,2024-03-05,"Monitor 27""",5,1450.0,Porto Alegre,RS
+1193,1484,2024-05-19,Headset Gamer,3,520.0,Salvador,BA
+1194,1463,2024-01-23,Notebook Pro 14,2,6500.0,São Paulo,SP
+1195,1349,2024-03-09,Dock USB-C,3,280.0,Porto Alegre,RS
+1196,1534,2024-03-13,Headset Gamer,1,520.0,São Paulo,SP
+1197,1918,2024-02-01,Teclado Mecânico,2,380.0,Recife,PE
+1198,1734,2024-05-24,Headset Gamer,4,520.0,São Paulo,SP
+1199,1260,2024-04-28,Notebook Air 13,2,4500.0,São Paulo,SP
+1200,1952,2024-06-14,Teclado Mecânico,2,380.0,Curitiba,PR
+1201,1844,2024-05-31,Notebook Air 13,3,4500.0,São Paulo,SP
+1202,1775,2024-03-21,Notebook Pro 14,5,6500.0,São Paulo,SP
+1203,1790,2024-06-22,Teclado Mecânico,4,380.0,Salvador,BA
+1204,1603,2024-04-07,Notebook Air 13,4,4500.0,São Paulo,SP
+1205,1543,2024-05-22,Notebook Pro 14,5,6500.0,Curitiba,PR
+1206,1858,2024-04-23,Teclado Mecânico,5,380.0,Recife,PE
+1207,1943,2024-06-25,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+1208,1748,2024-06-07,Notebook Air 13,1,4500.0,Curitiba,PR
+1209,1673,2024-04-26,"Monitor 27""",3,1450.0,Porto Alegre,RS
+1210,1902,2024-03-15,Teclado Mecânico,5,380.0,Salvador,BA
+1211,1780,2024-02-18,Mouse Wireless,4,120.0,Belo Horizonte,MG
+1212,1993,2024-02-27,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1213,1422,2024-04-26,Headset Gamer,5,520.0,Belo Horizonte,MG
+1214,1863,2024-05-16,"Monitor 27""",3,1450.0,Salvador,BA
+1215,1754,2024-06-30,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+1216,1214,2024-05-01,Headset Gamer,3,520.0,Salvador,BA
+1217,1353,2024-06-27,Headset Gamer,2,520.0,Salvador,BA
+1218,1665,2024-02-04,"Monitor 27""",5,1450.0,Salvador,BA
+1219,1652,2024-03-03,Headset Gamer,1,520.0,Recife,PE
+1220,1360,2024-04-19,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1221,1965,2024-05-09,Headset Gamer,4,520.0,Salvador,BA
+1222,1765,2024-06-22,Dock USB-C,5,280.0,Belo Horizonte,MG
+1223,1898,2024-06-13,Teclado Mecânico,1,380.0,Porto Alegre,RS
+1224,1109,2024-01-05,Teclado Mecânico,2,380.0,São Paulo,SP
+1225,1686,2024-01-11,Notebook Air 13,3,4500.0,Recife,PE
+1226,1804,2024-02-01,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1227,1859,2024-01-13,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+1228,1771,2024-04-15,Notebook Pro 14,3,6500.0,Recife,PE
+1229,1463,2024-01-20,"Monitor 27""",5,1450.0,Recife,PE
+1230,1229,2024-05-24,Headset Gamer,5,520.0,Curitiba,PR
+1231,1243,2024-04-09,Dock USB-C,3,280.0,Salvador,BA
+1232,1680,2024-01-10,Teclado Mecânico,4,380.0,Curitiba,PR
+1233,1979,2024-06-02,Headset Gamer,3,520.0,Porto Alegre,RS
+1234,1055,2024-01-03,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+1235,1635,2024-06-17,Dock USB-C,4,280.0,Recife,PE
+1236,1230,2024-06-25,Headset Gamer,3,520.0,Recife,PE
+1237,1602,2024-04-16,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+1238,1794,2024-05-20,Notebook Air 13,3,4500.0,Curitiba,PR
+1239,1181,2024-05-12,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1240,1752,2024-04-09,Notebook Pro 14,4,6500.0,São Paulo,SP
+1241,1438,2024-02-24,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+1242,1164,2024-04-23,Dock USB-C,3,280.0,São Paulo,SP
+1243,1338,2024-03-31,Headset Gamer,2,520.0,São Paulo,SP
+1244,1157,2024-06-29,Mouse Wireless,5,120.0,São Paulo,SP
+1245,1792,2024-06-30,Headset Gamer,5,520.0,Recife,PE
+1246,1677,2024-02-28,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1247,1366,2024-01-15,Dock USB-C,3,280.0,Porto Alegre,RS
+1248,1225,2024-02-05,"Monitor 27""",1,1450.0,Recife,PE
+1249,1517,2024-01-31,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1250,1413,2024-01-18,Mouse Wireless,2,120.0,Rio de Janeiro,RJ
+1251,1679,2024-03-05,Mouse Wireless,3,120.0,Belo Horizonte,MG
+1252,1223,2024-05-26,"Monitor 27""",5,1450.0,Curitiba,PR
+1253,1574,2024-06-08,Dock USB-C,1,280.0,São Paulo,SP
+1254,1684,2024-03-08,Teclado Mecânico,2,380.0,Salvador,BA
+1255,1628,2024-06-27,"Monitor 27""",2,1450.0,São Paulo,SP
+1256,1698,2024-06-20,Mouse Wireless,4,120.0,Recife,PE
+1257,1967,2024-01-23,Teclado Mecânico,3,380.0,Porto Alegre,RS
+1258,1741,2024-02-24,Notebook Pro 14,5,6500.0,Recife,PE
+1259,1788,2024-03-13,"Monitor 27""",5,1450.0,Curitiba,PR
+1260,1498,2024-01-09,Mouse Wireless,2,120.0,Belo Horizonte,MG
+1261,1526,2024-01-16,Notebook Pro 14,2,6500.0,Recife,PE
+1262,1550,2024-04-13,Notebook Pro 14,1,6500.0,Rio de Janeiro,RJ
+1263,1686,2024-05-02,Dock USB-C,2,280.0,Recife,PE
+1264,1701,2024-03-23,Dock USB-C,1,280.0,Rio de Janeiro,RJ
+1265,1550,2024-06-09,Headset Gamer,4,520.0,Salvador,BA
+1266,1836,2024-01-15,Headset Gamer,2,520.0,São Paulo,SP
+1267,1470,2024-05-19,Mouse Wireless,1,120.0,São Paulo,SP
+1268,1075,2024-01-11,Notebook Air 13,3,4500.0,Porto Alegre,RS
+1269,1072,2024-04-21,Dock USB-C,2,280.0,Belo Horizonte,MG
+1270,1417,2024-03-16,Teclado Mecânico,4,380.0,Curitiba,PR
+1271,1323,2024-01-04,Teclado Mecânico,1,380.0,Porto Alegre,RS
+1272,1006,2024-05-04,Headset Gamer,5,520.0,São Paulo,SP
+1273,1774,2024-05-24,"Monitor 27""",1,1450.0,Salvador,BA
+1274,1868,2024-01-15,Mouse Wireless,5,120.0,São Paulo,SP
+1275,1296,2024-06-01,Headset Gamer,3,520.0,Porto Alegre,RS
+1276,1088,2024-02-24,Dock USB-C,4,280.0,Curitiba,PR
+1277,1404,2024-06-08,Headset Gamer,1,520.0,Curitiba,PR
+1278,1160,2024-04-13,Notebook Air 13,2,4500.0,Salvador,BA
+1279,1400,2024-06-03,Dock USB-C,5,280.0,Belo Horizonte,MG
+1280,1983,2024-05-03,Notebook Air 13,3,4500.0,Salvador,BA
+1281,1908,2024-06-26,Dock USB-C,3,280.0,São Paulo,SP
+1282,1566,2024-06-18,"Monitor 27""",2,1450.0,São Paulo,SP
+1283,1042,2024-01-01,"Monitor 27""",5,1450.0,Curitiba,PR
+1284,1550,2024-04-16,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+1285,1766,2024-05-23,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+1286,1422,2024-06-24,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+1287,1164,2024-02-05,Notebook Air 13,5,4500.0,Recife,PE
+1288,1258,2024-02-07,Notebook Pro 14,2,6500.0,Salvador,BA
+1289,1818,2024-04-20,Dock USB-C,1,280.0,Recife,PE
+1290,1769,2024-06-30,"Monitor 27""",4,1450.0,Salvador,BA
+1291,1562,2024-01-15,Mouse Wireless,1,120.0,Belo Horizonte,MG
+1292,1100,2024-02-08,Headset Gamer,5,520.0,Curitiba,PR
+1293,1974,2024-03-05,Mouse Wireless,2,120.0,Salvador,BA
+1294,1671,2024-02-15,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+1295,1071,2024-06-23,Notebook Air 13,3,4500.0,Curitiba,PR
+1296,1461,2024-03-04,"Monitor 27""",3,1450.0,Salvador,BA
+1297,1598,2024-01-30,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+1298,1827,2024-03-02,Teclado Mecânico,2,380.0,São Paulo,SP
+1299,1320,2024-02-17,Dock USB-C,2,280.0,Salvador,BA
+1300,1757,2024-05-04,Teclado Mecânico,3,380.0,Recife,PE
+1301,1368,2024-01-27,Headset Gamer,3,520.0,Curitiba,PR
+1302,1473,2024-03-27,Mouse Wireless,3,120.0,Curitiba,PR
+1303,1564,2024-01-22,Notebook Air 13,5,4500.0,São Paulo,SP
+1304,1861,2024-02-24,Dock USB-C,2,280.0,Porto Alegre,RS
+1305,1201,2024-02-21,Headset Gamer,1,520.0,Salvador,BA
+1306,1077,2024-06-22,Notebook Pro 14,5,6500.0,Salvador,BA
+1307,1031,2024-06-06,"Monitor 27""",5,1450.0,Curitiba,PR
+1308,1787,2024-04-24,Notebook Air 13,1,4500.0,Porto Alegre,RS
+1309,1266,2024-04-15,"Monitor 27""",4,1450.0,Salvador,BA
+1310,1793,2024-01-29,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+1311,1912,2024-05-29,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+1312,1475,2024-04-07,"Monitor 27""",1,1450.0,Curitiba,PR
+1313,1372,2024-04-07,Notebook Pro 14,2,6500.0,Recife,PE
+1314,1987,2024-06-05,"Monitor 27""",2,1450.0,Recife,PE
+1315,1526,2024-01-28,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1316,1579,2024-04-19,Headset Gamer,2,520.0,Salvador,BA
+1317,1749,2024-04-03,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+1318,1779,2024-04-04,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+1319,1378,2024-02-15,Notebook Pro 14,2,6500.0,Porto Alegre,RS
+1320,1929,2024-06-02,Mouse Wireless,4,120.0,Curitiba,PR
+1321,1939,2024-03-29,Notebook Pro 14,1,6500.0,Salvador,BA
+1322,1331,2024-01-21,Headset Gamer,5,520.0,Salvador,BA
+1323,1849,2024-02-23,Dock USB-C,3,280.0,Porto Alegre,RS
+1324,1557,2024-04-20,Notebook Air 13,4,4500.0,Salvador,BA
+1325,1387,2024-03-11,"Monitor 27""",1,1450.0,Porto Alegre,RS
+1326,1257,2024-03-14,Notebook Air 13,5,4500.0,Curitiba,PR
+1327,1361,2024-06-07,Dock USB-C,3,280.0,Curitiba,PR
+1328,1811,2024-04-03,"Monitor 27""",1,1450.0,Porto Alegre,RS
+1329,1903,2024-01-27,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1330,1078,2024-04-09,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+1331,1153,2024-02-06,Notebook Air 13,3,4500.0,Porto Alegre,RS
+1332,1734,2024-06-07,Notebook Pro 14,2,6500.0,Curitiba,PR
+1333,1830,2024-03-05,Headset Gamer,1,520.0,Curitiba,PR
+1334,1691,2024-04-02,Teclado Mecânico,2,380.0,Porto Alegre,RS
+1335,1165,2024-05-05,Dock USB-C,4,280.0,São Paulo,SP
+1336,1249,2024-01-09,Notebook Air 13,5,4500.0,Porto Alegre,RS
+1337,1164,2024-01-27,Headset Gamer,5,520.0,São Paulo,SP
+1338,1912,2024-04-21,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+1339,1264,2024-06-28,Notebook Air 13,5,4500.0,Curitiba,PR
+1340,1613,2024-04-19,Headset Gamer,1,520.0,Salvador,BA
+1341,1745,2024-05-08,Dock USB-C,3,280.0,São Paulo,SP
+1342,1221,2024-03-28,"Monitor 27""",4,1450.0,Recife,PE
+1343,1493,2024-02-03,Notebook Air 13,4,4500.0,Porto Alegre,RS
+1344,1146,2024-06-03,"Monitor 27""",2,1450.0,Porto Alegre,RS
+1345,1675,2024-04-09,Mouse Wireless,2,120.0,Salvador,BA
+1346,1702,2024-03-07,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1347,1070,2024-02-14,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+1348,1111,2024-01-04,Notebook Air 13,5,4500.0,Recife,PE
+1349,1931,2024-04-07,Headset Gamer,4,520.0,Recife,PE
+1350,1153,2024-04-27,Notebook Pro 14,2,6500.0,Curitiba,PR
+1351,1923,2024-04-29,"Monitor 27""",1,1450.0,Recife,PE
+1352,1544,2024-04-07,Dock USB-C,1,280.0,São Paulo,SP
+1353,1493,2024-05-08,Notebook Air 13,5,4500.0,Porto Alegre,RS
+1354,1847,2024-01-01,Dock USB-C,4,280.0,Porto Alegre,RS
+1355,1430,2024-03-12,Dock USB-C,1,280.0,Salvador,BA
+1356,1542,2024-03-24,Notebook Air 13,4,4500.0,Recife,PE
+1357,1787,2024-03-15,Mouse Wireless,5,120.0,Recife,PE
+1358,1759,2024-06-25,Dock USB-C,5,280.0,São Paulo,SP
+1359,1435,2024-01-26,Mouse Wireless,4,120.0,Recife,PE
+1360,1238,2024-06-25,Dock USB-C,1,280.0,Belo Horizonte,MG
+1361,1612,2024-06-19,"Monitor 27""",4,1450.0,Belo Horizonte,MG
+1362,1193,2024-01-02,Headset Gamer,1,520.0,Porto Alegre,RS
+1363,1535,2024-01-23,"Monitor 27""",1,1450.0,Curitiba,PR
+1364,1670,2024-02-09,Headset Gamer,3,520.0,Curitiba,PR
+1365,1370,2024-01-21,Notebook Air 13,4,4500.0,Salvador,BA
+1366,1599,2024-02-19,Mouse Wireless,5,120.0,Curitiba,PR
+1367,1578,2024-03-12,"Monitor 27""",3,1450.0,Salvador,BA
+1368,1406,2024-05-26,Notebook Air 13,4,4500.0,Porto Alegre,RS
+1369,1802,2024-04-18,Teclado Mecânico,2,380.0,Belo Horizonte,MG
+1370,1572,2024-04-17,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+1371,1591,2024-03-07,Dock USB-C,4,280.0,Salvador,BA
+1372,1141,2024-06-15,Dock USB-C,1,280.0,Salvador,BA
+1373,1235,2024-03-27,Dock USB-C,2,280.0,São Paulo,SP
+1374,1219,2024-04-08,Teclado Mecânico,3,380.0,Recife,PE
+1375,1563,2024-04-29,Headset Gamer,1,520.0,Rio de Janeiro,RJ
+1376,1398,2024-05-03,Notebook Pro 14,1,6500.0,Recife,PE
+1377,1148,2024-04-01,"Monitor 27""",4,1450.0,São Paulo,SP
+1378,1065,2024-02-21,Notebook Air 13,3,4500.0,São Paulo,SP
+1379,1623,2024-01-08,Headset Gamer,4,520.0,Curitiba,PR
+1380,1628,2024-05-07,"Monitor 27""",3,1450.0,Salvador,BA
+1381,1986,2024-04-26,Notebook Pro 14,2,6500.0,Salvador,BA
+1382,1506,2024-03-26,Notebook Pro 14,2,6500.0,Recife,PE
+1383,1672,2024-06-29,Dock USB-C,5,280.0,Belo Horizonte,MG
+1384,1199,2024-01-07,Dock USB-C,5,280.0,Porto Alegre,RS
+1385,1528,2024-05-15,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+1386,1690,2024-01-08,Mouse Wireless,2,120.0,Salvador,BA
+1387,1000,2024-01-31,Notebook Pro 14,3,6500.0,Recife,PE
+1388,1409,2024-03-09,Headset Gamer,4,520.0,Curitiba,PR
+1389,1600,2024-02-08,"Monitor 27""",1,1450.0,Salvador,BA
+1390,1720,2024-01-14,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+1391,1743,2024-06-10,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+1392,1355,2024-06-07,Mouse Wireless,2,120.0,Porto Alegre,RS
+1393,1986,2024-02-07,Teclado Mecânico,4,380.0,Porto Alegre,RS
+1394,1004,2024-02-20,Notebook Air 13,4,4500.0,Porto Alegre,RS
+1395,1109,2024-04-18,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+1396,1348,2024-01-23,Dock USB-C,5,280.0,Belo Horizonte,MG
+1397,1897,2024-04-14,Dock USB-C,5,280.0,Belo Horizonte,MG
+1398,1710,2024-03-26,Teclado Mecânico,5,380.0,Curitiba,PR
+1399,1788,2024-02-17,Dock USB-C,3,280.0,Recife,PE
+1400,1469,2024-05-12,Teclado Mecânico,5,380.0,Recife,PE
+1401,1028,2024-04-03,Notebook Pro 14,3,6500.0,São Paulo,SP
+1402,1391,2024-05-03,Dock USB-C,2,280.0,Salvador,BA
+1403,1718,2024-02-14,Dock USB-C,3,280.0,Curitiba,PR
+1404,1978,2024-03-09,"Monitor 27""",5,1450.0,São Paulo,SP
+1405,1717,2024-06-10,Mouse Wireless,2,120.0,Belo Horizonte,MG
+1406,1095,2024-03-18,Headset Gamer,3,520.0,São Paulo,SP
+1407,1567,2024-06-29,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+1408,1362,2024-02-12,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+1409,1969,2024-05-24,Headset Gamer,2,520.0,Curitiba,PR
+1410,1754,2024-02-08,Notebook Air 13,2,4500.0,Recife,PE
+1411,1271,2024-02-10,Notebook Air 13,2,4500.0,Recife,PE
+1412,1255,2024-06-11,"Monitor 27""",3,1450.0,Rio de Janeiro,RJ
+1413,1797,2024-01-21,Notebook Pro 14,1,6500.0,Salvador,BA
+1414,1978,2024-05-08,Teclado Mecânico,5,380.0,São Paulo,SP
+1415,1782,2024-06-15,"Monitor 27""",1,1450.0,Recife,PE
+1416,1493,2024-03-13,"Monitor 27""",3,1450.0,Curitiba,PR
+1417,1919,2024-06-20,"Monitor 27""",3,1450.0,Curitiba,PR
+1418,1187,2024-05-28,"Monitor 27""",3,1450.0,Curitiba,PR
+1419,1227,2024-05-25,"Monitor 27""",2,1450.0,São Paulo,SP
+1420,1538,2024-06-04,Teclado Mecânico,4,380.0,Porto Alegre,RS
+1421,1033,2024-04-07,Mouse Wireless,4,120.0,Recife,PE
+1422,1702,2024-05-30,Notebook Air 13,4,4500.0,São Paulo,SP
+1423,1715,2024-04-10,Teclado Mecânico,3,380.0,Salvador,BA
+1424,1008,2024-01-03,Headset Gamer,2,520.0,Curitiba,PR
+1425,1594,2024-01-20,Mouse Wireless,3,120.0,Porto Alegre,RS
+1426,1882,2024-02-20,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+1427,1242,2024-02-22,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+1428,1374,2024-02-05,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+1429,1429,2024-05-16,Dock USB-C,3,280.0,Belo Horizonte,MG
+1430,1874,2024-03-18,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+1431,1585,2024-01-26,"Monitor 27""",2,1450.0,Recife,PE
+1432,1102,2024-05-19,Mouse Wireless,2,120.0,Porto Alegre,RS
+1433,1442,2024-06-15,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1434,1819,2024-05-23,Notebook Air 13,4,4500.0,Recife,PE
+1435,1009,2024-02-04,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+1436,1914,2024-06-13,Headset Gamer,5,520.0,Porto Alegre,RS
+1437,1737,2024-03-02,Dock USB-C,4,280.0,Belo Horizonte,MG
+1438,1256,2024-04-19,Dock USB-C,5,280.0,São Paulo,SP
+1439,1407,2024-01-20,Headset Gamer,2,520.0,São Paulo,SP
+1440,1220,2024-06-07,Mouse Wireless,4,120.0,Recife,PE
+1441,1644,2024-01-19,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+1442,1369,2024-03-10,"Monitor 27""",5,1450.0,Recife,PE
+1443,1263,2024-03-07,Notebook Pro 14,4,6500.0,São Paulo,SP
+1444,1359,2024-06-17,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+1445,1590,2024-04-21,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+1446,1799,2024-02-25,Mouse Wireless,3,120.0,Salvador,BA
+1447,1522,2024-04-04,Dock USB-C,4,280.0,São Paulo,SP
+1448,1390,2024-04-29,Mouse Wireless,4,120.0,Salvador,BA
+1449,1979,2024-01-29,Dock USB-C,2,280.0,Salvador,BA
+1450,1827,2024-06-29,Mouse Wireless,4,120.0,Salvador,BA
+1451,1627,2024-04-21,Teclado Mecânico,1,380.0,São Paulo,SP
+1452,1165,2024-03-07,Notebook Air 13,3,4500.0,Belo Horizonte,MG
+1453,1668,2024-02-26,Headset Gamer,3,520.0,Porto Alegre,RS
+1454,1660,2024-03-17,Mouse Wireless,4,120.0,Recife,PE
+1455,1883,2024-03-11,Headset Gamer,5,520.0,Porto Alegre,RS
+1456,1988,2024-03-28,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1457,1874,2024-01-05,Notebook Air 13,2,4500.0,Salvador,BA
+1458,1257,2024-05-24,Headset Gamer,1,520.0,Rio de Janeiro,RJ
+1459,1170,2024-03-18,Notebook Pro 14,1,6500.0,São Paulo,SP
+1460,1959,2024-06-19,Teclado Mecânico,5,380.0,São Paulo,SP
+1461,1026,2024-05-29,Teclado Mecânico,5,380.0,Recife,PE
+1462,1085,2024-01-21,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+1463,1086,2024-05-07,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+1464,1253,2024-05-23,Mouse Wireless,4,120.0,Salvador,BA
+1465,1129,2024-01-26,"Monitor 27""",2,1450.0,São Paulo,SP
+1466,1035,2024-05-08,Mouse Wireless,3,120.0,Recife,PE
+1467,1487,2024-03-31,Dock USB-C,5,280.0,Belo Horizonte,MG
+1468,1561,2024-03-27,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+1469,1605,2024-04-26,Teclado Mecânico,5,380.0,Curitiba,PR
+1470,1536,2024-05-04,Headset Gamer,5,520.0,Belo Horizonte,MG
+1471,1930,2024-03-08,Teclado Mecânico,5,380.0,Rio de Janeiro,RJ
+1472,1824,2024-01-18,Teclado Mecânico,3,380.0,Belo Horizonte,MG
+1473,1422,2024-02-20,Notebook Air 13,3,4500.0,São Paulo,SP
+1474,1000,2024-04-11,Dock USB-C,2,280.0,Belo Horizonte,MG
+1475,1293,2024-04-01,"Monitor 27""",1,1450.0,Salvador,BA
+1476,1944,2024-04-05,Dock USB-C,4,280.0,Belo Horizonte,MG
+1477,1009,2024-05-28,Teclado Mecânico,3,380.0,Porto Alegre,RS
+1478,1236,2024-06-03,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+1479,1193,2024-03-20,"Monitor 27""",4,1450.0,Curitiba,PR
+1480,1255,2024-02-01,Headset Gamer,4,520.0,Recife,PE
+1481,1387,2024-02-12,Mouse Wireless,1,120.0,Curitiba,PR
+1482,1640,2024-02-16,"Monitor 27""",5,1450.0,Recife,PE
+1483,1710,2024-05-12,Mouse Wireless,3,120.0,Salvador,BA
+1484,1760,2024-04-13,Dock USB-C,3,280.0,Curitiba,PR
+1485,1192,2024-06-14,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1486,1296,2024-01-22,Headset Gamer,4,520.0,Porto Alegre,RS
+1487,1463,2024-02-22,Headset Gamer,5,520.0,Curitiba,PR
+1488,1192,2024-03-03,Notebook Pro 14,2,6500.0,São Paulo,SP
+1489,1992,2024-04-13,Notebook Pro 14,2,6500.0,São Paulo,SP
+1490,1288,2024-02-22,Notebook Air 13,4,4500.0,Salvador,BA
+1491,1008,2024-02-15,Notebook Pro 14,2,6500.0,São Paulo,SP
+1492,1505,2024-02-12,Mouse Wireless,4,120.0,Belo Horizonte,MG
+1493,1804,2024-06-04,Teclado Mecânico,3,380.0,Curitiba,PR
+1494,1713,2024-06-02,Notebook Pro 14,3,6500.0,São Paulo,SP
+1495,1863,2024-05-25,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+1496,1794,2024-03-17,Notebook Pro 14,5,6500.0,Curitiba,PR
+1497,1185,2024-02-07,Dock USB-C,3,280.0,Recife,PE
+1498,1390,2024-06-09,Notebook Pro 14,1,6500.0,Recife,PE
+1499,1731,2024-02-18,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+1500,1755,2024-01-07,Notebook Air 13,4,4500.0,Salvador,BA
+1501,1789,2024-01-19,"Monitor 27""",2,1450.0,Curitiba,PR
+1502,1398,2024-05-12,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1503,1644,2024-05-21,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+1504,1125,2024-02-19,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+1505,1369,2024-06-21,Notebook Pro 14,2,6500.0,São Paulo,SP
+1506,1241,2024-05-02,Teclado Mecânico,3,380.0,São Paulo,SP
+1507,1171,2024-06-03,Mouse Wireless,5,120.0,São Paulo,SP
+1508,1405,2024-06-02,Notebook Air 13,1,4500.0,São Paulo,SP
+1509,1595,2024-06-01,Headset Gamer,4,520.0,Salvador,BA
+1510,1610,2024-01-31,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+1511,1161,2024-04-07,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+1512,1953,2024-05-27,Headset Gamer,1,520.0,São Paulo,SP
+1513,1364,2024-05-05,Notebook Air 13,5,4500.0,Recife,PE
+1514,1109,2024-01-25,Teclado Mecânico,2,380.0,Belo Horizonte,MG
+1515,1571,2024-06-02,Headset Gamer,3,520.0,Recife,PE
+1516,1913,2024-03-26,Headset Gamer,2,520.0,São Paulo,SP
+1517,1705,2024-03-14,Mouse Wireless,2,120.0,Belo Horizonte,MG
+1518,1920,2024-01-08,Teclado Mecânico,4,380.0,Porto Alegre,RS
+1519,1301,2024-04-15,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+1520,1580,2024-02-06,"Monitor 27""",3,1450.0,Belo Horizonte,MG
+1521,1749,2024-03-31,Mouse Wireless,5,120.0,Recife,PE
+1522,1567,2024-02-01,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+1523,1460,2024-02-27,Dock USB-C,3,280.0,Porto Alegre,RS
+1524,1375,2024-03-29,Notebook Pro 14,5,6500.0,Curitiba,PR
+1525,1751,2024-02-06,Notebook Pro 14,5,6500.0,Recife,PE
+1526,1372,2024-05-30,"Monitor 27""",2,1450.0,Belo Horizonte,MG
+1527,1738,2024-01-13,Headset Gamer,5,520.0,Recife,PE
+1528,1396,2024-02-06,"Monitor 27""",4,1450.0,Recife,PE
+1529,1564,2024-01-30,"Monitor 27""",3,1450.0,Belo Horizonte,MG
+1530,1419,2024-05-04,Mouse Wireless,1,120.0,São Paulo,SP
+1531,1535,2024-05-07,Notebook Pro 14,1,6500.0,Recife,PE
+1532,1960,2024-01-26,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+1533,1109,2024-04-04,Notebook Air 13,1,4500.0,São Paulo,SP
+1534,1584,2024-05-04,Dock USB-C,4,280.0,Salvador,BA
+1535,1501,2024-04-12,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+1536,1050,2024-03-12,Notebook Air 13,5,4500.0,Salvador,BA
+1537,1072,2024-01-03,Notebook Air 13,4,4500.0,Recife,PE
+1538,1081,2024-03-31,Dock USB-C,1,280.0,Belo Horizonte,MG
+1539,1571,2024-05-24,Teclado Mecânico,3,380.0,Recife,PE
+1540,1725,2024-01-12,Dock USB-C,5,280.0,Belo Horizonte,MG
+1541,1541,2024-01-08,Headset Gamer,1,520.0,Recife,PE
+1542,1311,2024-01-16,Notebook Air 13,5,4500.0,São Paulo,SP
+1543,1103,2024-05-20,Notebook Air 13,5,4500.0,Curitiba,PR
+1544,1194,2024-02-07,"Monitor 27""",2,1450.0,Porto Alegre,RS
+1545,1640,2024-02-04,"Monitor 27""",5,1450.0,Curitiba,PR
+1546,1764,2024-01-21,Dock USB-C,5,280.0,Belo Horizonte,MG
+1547,1690,2024-03-30,Headset Gamer,4,520.0,São Paulo,SP
+1548,1170,2024-06-02,Notebook Air 13,5,4500.0,Curitiba,PR
+1549,1516,2024-03-06,Headset Gamer,2,520.0,Porto Alegre,RS
+1550,1614,2024-03-27,Mouse Wireless,3,120.0,Porto Alegre,RS
+1551,1332,2024-06-13,Mouse Wireless,4,120.0,Recife,PE
+1552,1648,2024-03-24,Dock USB-C,3,280.0,Porto Alegre,RS
+1553,1246,2024-04-19,"Monitor 27""",2,1450.0,Curitiba,PR
+1554,1784,2024-04-16,Headset Gamer,3,520.0,Belo Horizonte,MG
+1555,1984,2024-03-28,Teclado Mecânico,4,380.0,São Paulo,SP
+1556,1743,2024-01-07,Mouse Wireless,5,120.0,São Paulo,SP
+1557,1530,2024-01-27,Mouse Wireless,1,120.0,Belo Horizonte,MG
+1558,1227,2024-02-11,Dock USB-C,3,280.0,São Paulo,SP
+1559,1790,2024-06-08,Headset Gamer,3,520.0,Porto Alegre,RS
+1560,1523,2024-04-18,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+1561,1096,2024-01-08,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+1562,1141,2024-02-21,Mouse Wireless,5,120.0,Rio de Janeiro,RJ
+1563,1238,2024-02-19,Dock USB-C,3,280.0,São Paulo,SP
+1564,1584,2024-03-18,"Monitor 27""",2,1450.0,Salvador,BA
+1565,1079,2024-05-20,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+1566,1499,2024-06-09,Headset Gamer,5,520.0,Recife,PE
+1567,1929,2024-01-19,"Monitor 27""",3,1450.0,São Paulo,SP
+1568,1748,2024-06-05,"Monitor 27""",4,1450.0,São Paulo,SP
+1569,1798,2024-01-11,Dock USB-C,3,280.0,Belo Horizonte,MG
+1570,1900,2024-06-07,Teclado Mecânico,4,380.0,Recife,PE
+1571,1123,2024-06-17,Dock USB-C,2,280.0,Salvador,BA
+1572,1668,2024-06-13,"Monitor 27""",1,1450.0,Salvador,BA
+1573,1796,2024-05-02,Teclado Mecânico,1,380.0,Belo Horizonte,MG
+1574,1536,2024-01-08,Mouse Wireless,5,120.0,Porto Alegre,RS
+1575,1153,2024-03-04,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+1576,1051,2024-05-10,Headset Gamer,4,520.0,Curitiba,PR
+1577,1770,2024-04-25,"Monitor 27""",5,1450.0,São Paulo,SP
+1578,1227,2024-03-24,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+1579,1135,2024-03-06,Notebook Pro 14,4,6500.0,Porto Alegre,RS
+1580,1763,2024-01-10,"Monitor 27""",4,1450.0,Belo Horizonte,MG
+1581,1087,2024-03-18,"Monitor 27""",4,1450.0,Recife,PE
+1582,1714,2024-01-26,Dock USB-C,2,280.0,Curitiba,PR
+1583,1572,2024-02-08,Teclado Mecânico,4,380.0,Salvador,BA
+1584,1585,2024-02-08,"Monitor 27""",5,1450.0,Salvador,BA
+1585,1536,2024-02-17,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+1586,1795,2024-03-24,Mouse Wireless,5,120.0,São Paulo,SP
+1587,1115,2024-05-10,Teclado Mecânico,4,380.0,Belo Horizonte,MG
+1588,1356,2024-02-06,Mouse Wireless,3,120.0,Porto Alegre,RS
+1589,1671,2024-01-05,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+1590,1358,2024-04-29,Dock USB-C,4,280.0,Porto Alegre,RS
+1591,1149,2024-03-26,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1592,1701,2024-03-13,Notebook Air 13,1,4500.0,São Paulo,SP
+1593,1757,2024-01-11,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+1594,1889,2024-06-10,Dock USB-C,3,280.0,São Paulo,SP
+1595,1351,2024-05-14,Dock USB-C,1,280.0,Belo Horizonte,MG
+1596,1460,2024-04-01,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+1597,1757,2024-04-14,Notebook Air 13,2,4500.0,Porto Alegre,RS
+1598,1535,2024-05-25,Mouse Wireless,5,120.0,Curitiba,PR
+1599,1637,2024-05-21,Notebook Air 13,1,4500.0,Curitiba,PR
+1600,1596,2024-06-24,Headset Gamer,5,520.0,São Paulo,SP
+1601,1261,2024-02-03,Notebook Pro 14,3,6500.0,Rio de Janeiro,RJ
+1602,1808,2024-05-15,"Monitor 27""",3,1450.0,São Paulo,SP
+1603,1476,2024-05-07,Notebook Pro 14,1,6500.0,Curitiba,PR
+1604,1676,2024-02-22,Headset Gamer,3,520.0,Recife,PE
+1605,1110,2024-01-04,Mouse Wireless,4,120.0,Rio de Janeiro,RJ
+1606,1389,2024-04-08,Headset Gamer,1,520.0,Belo Horizonte,MG
+1607,1496,2024-06-17,"Monitor 27""",5,1450.0,São Paulo,SP
+1608,1190,2024-02-08,"Monitor 27""",4,1450.0,Porto Alegre,RS
+1609,1948,2024-05-18,Notebook Pro 14,1,6500.0,Rio de Janeiro,RJ
+1610,1944,2024-04-12,Mouse Wireless,3,120.0,Curitiba,PR
+1611,1402,2024-05-24,Notebook Air 13,1,4500.0,Belo Horizonte,MG
+1612,1700,2024-03-09,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1613,1513,2024-02-23,Dock USB-C,1,280.0,Salvador,BA
+1614,1263,2024-06-19,Teclado Mecânico,1,380.0,Porto Alegre,RS
+1615,1971,2024-02-24,Notebook Air 13,2,4500.0,Belo Horizonte,MG
+1616,1918,2024-03-17,Headset Gamer,2,520.0,São Paulo,SP
+1617,1747,2024-03-15,"Monitor 27""",5,1450.0,Recife,PE
+1618,1640,2024-05-13,Notebook Air 13,4,4500.0,Rio de Janeiro,RJ
+1619,1586,2024-01-30,Teclado Mecânico,3,380.0,Porto Alegre,RS
+1620,1337,2024-03-28,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+1621,1668,2024-01-27,"Monitor 27""",5,1450.0,Salvador,BA
+1622,1819,2024-02-09,Dock USB-C,2,280.0,Belo Horizonte,MG
+1623,1705,2024-05-16,"Monitor 27""",2,1450.0,Curitiba,PR
+1624,1930,2024-05-29,Notebook Air 13,5,4500.0,Rio de Janeiro,RJ
+1625,1325,2024-01-14,"Monitor 27""",5,1450.0,Salvador,BA
+1626,1121,2024-02-05,Mouse Wireless,2,120.0,Salvador,BA
+1627,1030,2024-05-28,Mouse Wireless,4,120.0,Curitiba,PR
+1628,1310,2024-03-27,Headset Gamer,3,520.0,Rio de Janeiro,RJ
+1629,1797,2024-02-06,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1630,1026,2024-05-28,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+1631,1620,2024-04-20,"Monitor 27""",2,1450.0,Porto Alegre,RS
+1632,1237,2024-02-14,Headset Gamer,1,520.0,Belo Horizonte,MG
+1633,1081,2024-05-13,Dock USB-C,4,280.0,Rio de Janeiro,RJ
+1634,1514,2024-06-13,"Monitor 27""",4,1450.0,Salvador,BA
+1635,1665,2024-03-13,Notebook Air 13,4,4500.0,Curitiba,PR
+1636,1485,2024-01-27,Notebook Air 13,2,4500.0,Rio de Janeiro,RJ
+1637,1033,2024-03-20,Dock USB-C,1,280.0,Belo Horizonte,MG
+1638,1973,2024-03-21,Notebook Air 13,2,4500.0,Recife,PE
+1639,1209,2024-01-13,Notebook Air 13,4,4500.0,Recife,PE
+1640,1631,2024-04-05,Headset Gamer,3,520.0,Recife,PE
+1641,1468,2024-06-21,Notebook Air 13,4,4500.0,Curitiba,PR
+1642,1794,2024-01-09,"Monitor 27""",4,1450.0,Salvador,BA
+1643,1320,2024-03-17,"Monitor 27""",5,1450.0,Porto Alegre,RS
+1644,1549,2024-04-11,Headset Gamer,1,520.0,Porto Alegre,RS
+1645,1111,2024-03-28,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+1646,1531,2024-04-14,Teclado Mecânico,1,380.0,Porto Alegre,RS
+1647,1396,2024-04-10,Dock USB-C,1,280.0,Rio de Janeiro,RJ
+1648,1298,2024-03-26,Teclado Mecânico,3,380.0,Recife,PE
+1649,1847,2024-02-25,Teclado Mecânico,2,380.0,Curitiba,PR
+1650,1301,2024-04-29,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+1651,1474,2024-06-10,Headset Gamer,4,520.0,São Paulo,SP
+1652,1739,2024-04-07,Notebook Pro 14,2,6500.0,Recife,PE
+1653,1599,2024-06-22,Headset Gamer,5,520.0,Rio de Janeiro,RJ
+1654,1402,2024-03-21,Mouse Wireless,4,120.0,São Paulo,SP
+1655,1183,2024-03-29,"Monitor 27""",2,1450.0,Curitiba,PR
+1656,1092,2024-02-18,Mouse Wireless,2,120.0,Salvador,BA
+1657,1750,2024-01-24,Notebook Pro 14,1,6500.0,Salvador,BA
+1658,1460,2024-05-03,Mouse Wireless,1,120.0,Porto Alegre,RS
+1659,1724,2024-03-15,Headset Gamer,5,520.0,Porto Alegre,RS
+1660,1972,2024-02-01,Teclado Mecânico,5,380.0,Curitiba,PR
+1661,1044,2024-05-29,Notebook Air 13,3,4500.0,Porto Alegre,RS
+1662,1892,2024-05-08,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+1663,1889,2024-01-29,Notebook Air 13,1,4500.0,Curitiba,PR
+1664,1315,2024-03-01,Headset Gamer,4,520.0,Belo Horizonte,MG
+1665,1641,2024-02-05,Notebook Pro 14,2,6500.0,Rio de Janeiro,RJ
+1666,1003,2024-04-30,Dock USB-C,3,280.0,São Paulo,SP
+1667,1469,2024-04-06,Dock USB-C,4,280.0,Porto Alegre,RS
+1668,1826,2024-01-02,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+1669,1222,2024-04-24,Headset Gamer,4,520.0,Curitiba,PR
+1670,1419,2024-03-26,Notebook Pro 14,5,6500.0,Porto Alegre,RS
+1671,1006,2024-02-17,"Monitor 27""",3,1450.0,Porto Alegre,RS
+1672,1643,2024-04-18,Dock USB-C,2,280.0,São Paulo,SP
+1673,1189,2024-01-29,Notebook Pro 14,3,6500.0,São Paulo,SP
+1674,1148,2024-06-14,Notebook Pro 14,5,6500.0,Recife,PE
+1675,1617,2024-02-27,Mouse Wireless,1,120.0,São Paulo,SP
+1676,1111,2024-03-21,Notebook Air 13,2,4500.0,Salvador,BA
+1677,1291,2024-04-28,Headset Gamer,5,520.0,Porto Alegre,RS
+1678,1806,2024-04-19,Notebook Air 13,4,4500.0,Salvador,BA
+1679,1592,2024-03-10,Notebook Pro 14,1,6500.0,Recife,PE
+1680,1306,2024-03-03,Mouse Wireless,4,120.0,Recife,PE
+1681,1069,2024-05-27,Teclado Mecânico,5,380.0,São Paulo,SP
+1682,1299,2024-04-01,Notebook Air 13,1,4500.0,Salvador,BA
+1683,1880,2024-02-23,Mouse Wireless,5,120.0,Curitiba,PR
+1684,1537,2024-02-10,Headset Gamer,2,520.0,Porto Alegre,RS
+1685,1059,2024-01-22,"Monitor 27""",5,1450.0,São Paulo,SP
+1686,1495,2024-05-20,Headset Gamer,5,520.0,Recife,PE
+1687,1723,2024-02-25,Teclado Mecânico,5,380.0,Recife,PE
+1688,1324,2024-02-20,"Monitor 27""",5,1450.0,Porto Alegre,RS
+1689,1362,2024-06-29,Notebook Air 13,5,4500.0,Porto Alegre,RS
+1690,1508,2024-04-10,Headset Gamer,4,520.0,Curitiba,PR
+1691,1827,2024-02-04,"Monitor 27""",2,1450.0,Salvador,BA
+1692,1297,2024-02-07,Notebook Pro 14,1,6500.0,São Paulo,SP
+1693,1476,2024-05-01,Dock USB-C,1,280.0,Salvador,BA
+1694,1868,2024-02-10,Dock USB-C,5,280.0,Curitiba,PR
+1695,1423,2024-01-09,Mouse Wireless,3,120.0,Porto Alegre,RS
+1696,1825,2024-05-03,Notebook Air 13,1,4500.0,Salvador,BA
+1697,1206,2024-05-13,Mouse Wireless,3,120.0,Recife,PE
+1698,1069,2024-02-29,Mouse Wireless,5,120.0,Porto Alegre,RS
+1699,1331,2024-05-28,Notebook Pro 14,1,6500.0,Salvador,BA
+1700,1341,2024-03-07,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1701,1983,2024-01-06,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+1702,1338,2024-06-10,Mouse Wireless,4,120.0,Curitiba,PR
+1703,1816,2024-01-07,Headset Gamer,2,520.0,Curitiba,PR
+1704,1159,2024-05-01,Teclado Mecânico,5,380.0,Belo Horizonte,MG
+1705,1473,2024-06-01,Dock USB-C,4,280.0,Salvador,BA
+1706,1057,2024-06-11,"Monitor 27""",3,1450.0,Porto Alegre,RS
+1707,1742,2024-05-11,Mouse Wireless,5,120.0,Porto Alegre,RS
+1708,1019,2024-02-10,"Monitor 27""",3,1450.0,Recife,PE
+1709,1938,2024-06-21,Dock USB-C,3,280.0,São Paulo,SP
+1710,1992,2024-01-29,Mouse Wireless,1,120.0,Belo Horizonte,MG
+1711,1384,2024-05-01,"Monitor 27""",2,1450.0,Porto Alegre,RS
+1712,1620,2024-03-16,Notebook Air 13,5,4500.0,São Paulo,SP
+1713,1885,2024-05-31,Dock USB-C,3,280.0,Salvador,BA
+1714,1878,2024-03-02,Headset Gamer,1,520.0,Belo Horizonte,MG
+1715,1423,2024-01-17,Teclado Mecânico,2,380.0,Belo Horizonte,MG
+1716,1462,2024-06-10,Mouse Wireless,2,120.0,Porto Alegre,RS
+1717,1309,2024-02-03,Notebook Pro 14,3,6500.0,Recife,PE
+1718,1038,2024-05-31,Notebook Air 13,1,4500.0,Curitiba,PR
+1719,1518,2024-01-05,Dock USB-C,4,280.0,Porto Alegre,RS
+1720,1157,2024-02-06,Mouse Wireless,4,120.0,Salvador,BA
+1721,1894,2024-04-11,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1722,1787,2024-06-18,Notebook Pro 14,5,6500.0,Salvador,BA
+1723,1135,2024-02-09,Headset Gamer,1,520.0,Curitiba,PR
+1724,1396,2024-05-18,Dock USB-C,5,280.0,São Paulo,SP
+1725,1004,2024-03-01,Notebook Pro 14,5,6500.0,Recife,PE
+1726,1089,2024-03-05,Teclado Mecânico,1,380.0,São Paulo,SP
+1727,1533,2024-05-28,Headset Gamer,3,520.0,São Paulo,SP
+1728,1591,2024-05-27,Mouse Wireless,2,120.0,Belo Horizonte,MG
+1729,1205,2024-02-07,Mouse Wireless,3,120.0,Porto Alegre,RS
+1730,1326,2024-05-30,Teclado Mecânico,1,380.0,Belo Horizonte,MG
+1731,1152,2024-01-31,Mouse Wireless,1,120.0,São Paulo,SP
+1732,1981,2024-04-30,"Monitor 27""",5,1450.0,São Paulo,SP
+1733,1211,2024-04-15,Mouse Wireless,5,120.0,Belo Horizonte,MG
+1734,1277,2024-01-28,Headset Gamer,3,520.0,Porto Alegre,RS
+1735,1250,2024-02-03,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+1736,1913,2024-03-06,"Monitor 27""",4,1450.0,São Paulo,SP
+1737,1133,2024-01-06,Teclado Mecânico,1,380.0,São Paulo,SP
+1738,1392,2024-01-11,Notebook Pro 14,4,6500.0,Curitiba,PR
+1739,1183,2024-05-16,"Monitor 27""",5,1450.0,Salvador,BA
+1740,1856,2024-05-14,Headset Gamer,4,520.0,Porto Alegre,RS
+1741,1364,2024-03-01,Mouse Wireless,2,120.0,Salvador,BA
+1742,1776,2024-05-10,Dock USB-C,5,280.0,São Paulo,SP
+1743,1997,2024-06-28,Dock USB-C,4,280.0,Porto Alegre,RS
+1744,1134,2024-01-19,Dock USB-C,4,280.0,São Paulo,SP
+1745,1466,2024-03-01,Headset Gamer,4,520.0,Curitiba,PR
+1746,1237,2024-02-13,Notebook Air 13,5,4500.0,Belo Horizonte,MG
+1747,1934,2024-03-11,Teclado Mecânico,2,380.0,Salvador,BA
+1748,1939,2024-05-09,Mouse Wireless,3,120.0,Curitiba,PR
+1749,1499,2024-01-06,Notebook Pro 14,4,6500.0,São Paulo,SP
+1750,1359,2024-04-02,Teclado Mecânico,2,380.0,Belo Horizonte,MG
+1751,1786,2024-03-08,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+1752,1520,2024-01-20,Teclado Mecânico,1,380.0,Belo Horizonte,MG
+1753,1569,2024-05-06,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+1754,1472,2024-03-18,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+1755,1635,2024-02-17,"Monitor 27""",2,1450.0,Curitiba,PR
+1756,1393,2024-01-13,Mouse Wireless,2,120.0,Recife,PE
+1757,1710,2024-04-24,Teclado Mecânico,4,380.0,Porto Alegre,RS
+1758,1806,2024-03-07,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+1759,1678,2024-05-10,Notebook Pro 14,5,6500.0,Recife,PE
+1760,1498,2024-01-23,"Monitor 27""",5,1450.0,Curitiba,PR
+1761,1333,2024-04-17,Notebook Pro 14,4,6500.0,Rio de Janeiro,RJ
+1762,1315,2024-03-19,Notebook Pro 14,5,6500.0,São Paulo,SP
+1763,1701,2024-06-07,"Monitor 27""",4,1450.0,Belo Horizonte,MG
+1764,1506,2024-05-05,Headset Gamer,1,520.0,São Paulo,SP
+1765,1222,2024-06-07,Notebook Air 13,5,4500.0,Recife,PE
+1766,1651,2024-06-06,Notebook Pro 14,2,6500.0,Salvador,BA
+1767,1152,2024-03-28,"Monitor 27""",3,1450.0,Curitiba,PR
+1768,1630,2024-04-22,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1769,1697,2024-06-19,Mouse Wireless,3,120.0,Porto Alegre,RS
+1770,1813,2024-06-26,Headset Gamer,3,520.0,Curitiba,PR
+1771,1735,2024-06-26,Mouse Wireless,1,120.0,Porto Alegre,RS
+1772,1008,2024-04-28,"Monitor 27""",4,1450.0,Recife,PE
+1773,1130,2024-06-14,Mouse Wireless,1,120.0,Belo Horizonte,MG
+1774,1922,2024-04-16,Notebook Pro 14,1,6500.0,Salvador,BA
+1775,1573,2024-06-08,Mouse Wireless,1,120.0,Recife,PE
+1776,1288,2024-06-17,Notebook Pro 14,2,6500.0,Curitiba,PR
+1777,1719,2024-04-24,Teclado Mecânico,3,380.0,Salvador,BA
+1778,1391,2024-03-19,Teclado Mecânico,4,380.0,Porto Alegre,RS
+1779,1216,2024-05-08,Notebook Air 13,4,4500.0,Rio de Janeiro,RJ
+1780,1192,2024-04-17,Teclado Mecânico,3,380.0,Recife,PE
+1781,1427,2024-01-30,Mouse Wireless,2,120.0,Rio de Janeiro,RJ
+1782,1011,2024-01-14,Headset Gamer,1,520.0,Rio de Janeiro,RJ
+1783,1738,2024-06-20,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+1784,1086,2024-01-27,Headset Gamer,4,520.0,Recife,PE
+1785,1466,2024-06-22,Dock USB-C,5,280.0,Curitiba,PR
+1786,1638,2024-02-04,Teclado Mecânico,5,380.0,Curitiba,PR
+1787,1565,2024-06-08,Teclado Mecânico,4,380.0,Belo Horizonte,MG
+1788,1231,2024-02-06,Teclado Mecânico,5,380.0,São Paulo,SP
+1789,1591,2024-04-06,Dock USB-C,2,280.0,Salvador,BA
+1790,1513,2024-02-22,Teclado Mecânico,5,380.0,Porto Alegre,RS
+1791,1375,2024-01-07,Notebook Pro 14,5,6500.0,Curitiba,PR
+1792,1721,2024-03-12,Notebook Pro 14,5,6500.0,Curitiba,PR
+1793,1984,2024-05-14,Notebook Pro 14,2,6500.0,Salvador,BA
+1794,1748,2024-04-12,Dock USB-C,3,280.0,Curitiba,PR
+1795,1529,2024-01-16,"Monitor 27""",5,1450.0,São Paulo,SP
+1796,1251,2024-04-01,Headset Gamer,1,520.0,Salvador,BA
+1797,1648,2024-04-14,Dock USB-C,5,280.0,Belo Horizonte,MG
+1798,1627,2024-01-11,Mouse Wireless,5,120.0,Recife,PE
+1799,1011,2024-04-01,Teclado Mecânico,5,380.0,Curitiba,PR
+1800,1587,2024-05-22,Mouse Wireless,4,120.0,Belo Horizonte,MG
+1801,1983,2024-06-03,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1802,1036,2024-05-14,"Monitor 27""",3,1450.0,Salvador,BA
+1803,1803,2024-04-19,Mouse Wireless,1,120.0,Salvador,BA
+1804,1484,2024-04-22,Notebook Air 13,5,4500.0,São Paulo,SP
+1805,1672,2024-02-26,Dock USB-C,5,280.0,São Paulo,SP
+1806,1293,2024-04-04,Notebook Pro 14,2,6500.0,Porto Alegre,RS
+1807,1078,2024-06-14,Dock USB-C,3,280.0,Belo Horizonte,MG
+1808,1135,2024-04-29,Mouse Wireless,3,120.0,Recife,PE
+1809,1263,2024-01-03,Headset Gamer,1,520.0,Porto Alegre,RS
+1810,1178,2024-06-25,"Monitor 27""",2,1450.0,Salvador,BA
+1811,1457,2024-03-12,Dock USB-C,2,280.0,Belo Horizonte,MG
+1812,1801,2024-05-16,Notebook Air 13,4,4500.0,Rio de Janeiro,RJ
+1813,1818,2024-04-12,Dock USB-C,1,280.0,Belo Horizonte,MG
+1814,1086,2024-01-29,"Monitor 27""",2,1450.0,Recife,PE
+1815,1507,2024-05-26,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+1816,1676,2024-03-26,Headset Gamer,2,520.0,Rio de Janeiro,RJ
+1817,1591,2024-05-22,Dock USB-C,3,280.0,São Paulo,SP
+1818,1657,2024-02-21,Dock USB-C,1,280.0,São Paulo,SP
+1819,1171,2024-03-31,Teclado Mecânico,4,380.0,Belo Horizonte,MG
+1820,1487,2024-05-24,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+1821,1388,2024-05-12,Headset Gamer,4,520.0,Curitiba,PR
+1822,1268,2024-01-29,"Monitor 27""",4,1450.0,São Paulo,SP
+1823,1295,2024-06-29,Dock USB-C,4,280.0,Curitiba,PR
+1824,1694,2024-03-02,"Monitor 27""",1,1450.0,São Paulo,SP
+1825,1939,2024-04-13,Headset Gamer,3,520.0,Recife,PE
+1826,1442,2024-04-28,Headset Gamer,3,520.0,Belo Horizonte,MG
+1827,1276,2024-02-21,Dock USB-C,1,280.0,Belo Horizonte,MG
+1828,1670,2024-04-23,Teclado Mecânico,4,380.0,Recife,PE
+1829,1691,2024-05-25,Notebook Air 13,5,4500.0,Recife,PE
+1830,1199,2024-04-10,Mouse Wireless,2,120.0,Belo Horizonte,MG
+1831,1560,2024-01-03,Headset Gamer,1,520.0,Recife,PE
+1832,1069,2024-01-03,Teclado Mecânico,1,380.0,Porto Alegre,RS
+1833,1106,2024-05-13,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+1834,1742,2024-02-25,Mouse Wireless,2,120.0,São Paulo,SP
+1835,1024,2024-04-30,Notebook Pro 14,1,6500.0,Porto Alegre,RS
+1836,1672,2024-06-22,Dock USB-C,2,280.0,Porto Alegre,RS
+1837,1653,2024-01-24,Headset Gamer,1,520.0,São Paulo,SP
+1838,1876,2024-04-27,Notebook Air 13,4,4500.0,Salvador,BA
+1839,1782,2024-06-23,Headset Gamer,5,520.0,Recife,PE
+1840,1990,2024-02-05,Notebook Pro 14,2,6500.0,Belo Horizonte,MG
+1841,1301,2024-03-31,Headset Gamer,1,520.0,Salvador,BA
+1842,1464,2024-06-28,Mouse Wireless,4,120.0,Salvador,BA
+1843,1925,2024-05-09,Dock USB-C,3,280.0,Belo Horizonte,MG
+1844,1165,2024-05-31,Notebook Pro 14,3,6500.0,Recife,PE
+1845,1063,2024-03-15,Teclado Mecânico,3,380.0,São Paulo,SP
+1846,1264,2024-06-06,Mouse Wireless,2,120.0,Curitiba,PR
+1847,1071,2024-04-05,Notebook Air 13,5,4500.0,Curitiba,PR
+1848,1182,2024-05-05,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+1849,1553,2024-05-29,Teclado Mecânico,2,380.0,Porto Alegre,RS
+1850,1658,2024-01-21,Teclado Mecânico,3,380.0,São Paulo,SP
+1851,1035,2024-01-15,Notebook Pro 14,5,6500.0,Salvador,BA
+1852,1256,2024-05-30,Teclado Mecânico,1,380.0,Curitiba,PR
+1853,1152,2024-05-06,Headset Gamer,1,520.0,São Paulo,SP
+1854,1680,2024-03-16,Mouse Wireless,2,120.0,Salvador,BA
+1855,1337,2024-06-24,Teclado Mecânico,5,380.0,São Paulo,SP
+1856,1527,2024-05-17,Dock USB-C,4,280.0,Curitiba,PR
+1857,1446,2024-03-19,Dock USB-C,1,280.0,Porto Alegre,RS
+1858,1231,2024-01-01,Teclado Mecânico,4,380.0,São Paulo,SP
+1859,1580,2024-04-13,Mouse Wireless,3,120.0,Salvador,BA
+1860,1310,2024-03-18,Notebook Pro 14,1,6500.0,Belo Horizonte,MG
+1861,1547,2024-06-14,Mouse Wireless,1,120.0,Recife,PE
+1862,1470,2024-05-27,Dock USB-C,3,280.0,Salvador,BA
+1863,1207,2024-02-04,"Monitor 27""",1,1450.0,Curitiba,PR
+1864,1676,2024-02-07,Mouse Wireless,4,120.0,São Paulo,SP
+1865,1645,2024-05-13,Mouse Wireless,4,120.0,São Paulo,SP
+1866,1906,2024-05-02,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1867,1036,2024-02-07,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+1868,1500,2024-03-16,Notebook Pro 14,5,6500.0,Salvador,BA
+1869,1315,2024-04-07,"Monitor 27""",4,1450.0,São Paulo,SP
+1870,1037,2024-03-06,Notebook Pro 14,3,6500.0,Recife,PE
+1871,1738,2024-01-09,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+1872,1826,2024-05-06,Headset Gamer,5,520.0,Curitiba,PR
+1873,1962,2024-05-11,Dock USB-C,5,280.0,Rio de Janeiro,RJ
+1874,1758,2024-04-22,Notebook Air 13,1,4500.0,São Paulo,SP
+1875,1753,2024-01-28,Teclado Mecânico,1,380.0,Curitiba,PR
+1876,1928,2024-06-27,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+1877,1718,2024-05-05,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+1878,1647,2024-01-10,Mouse Wireless,1,120.0,Curitiba,PR
+1879,1625,2024-02-03,Dock USB-C,5,280.0,São Paulo,SP
+1880,1837,2024-06-07,Notebook Pro 14,1,6500.0,Curitiba,PR
+1881,1609,2024-06-04,"Monitor 27""",2,1450.0,São Paulo,SP
+1882,1823,2024-02-09,Teclado Mecânico,3,380.0,Recife,PE
+1883,1855,2024-05-23,Headset Gamer,4,520.0,Belo Horizonte,MG
+1884,1123,2024-05-12,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+1885,1329,2024-06-11,Dock USB-C,2,280.0,Recife,PE
+1886,1046,2024-04-25,Notebook Air 13,3,4500.0,São Paulo,SP
+1887,1123,2024-02-23,Notebook Air 13,4,4500.0,Rio de Janeiro,RJ
+1888,1713,2024-03-12,"Monitor 27""",2,1450.0,Curitiba,PR
+1889,1249,2024-06-28,"Monitor 27""",1,1450.0,Rio de Janeiro,RJ
+1890,1102,2024-06-02,Dock USB-C,5,280.0,Curitiba,PR
+1891,1796,2024-01-31,Notebook Pro 14,4,6500.0,São Paulo,SP
+1892,1006,2024-01-02,Notebook Air 13,1,4500.0,Salvador,BA
+1893,1667,2024-04-25,Mouse Wireless,4,120.0,Salvador,BA
+1894,1826,2024-06-02,Dock USB-C,4,280.0,Salvador,BA
+1895,1129,2024-02-10,Notebook Air 13,3,4500.0,Porto Alegre,RS
+1896,1461,2024-03-21,Notebook Air 13,2,4500.0,Porto Alegre,RS
+1897,1708,2024-01-08,"Monitor 27""",2,1450.0,Salvador,BA
+1898,1511,2024-04-28,Notebook Pro 14,3,6500.0,Belo Horizonte,MG
+1899,1428,2024-01-01,"Monitor 27""",2,1450.0,Rio de Janeiro,RJ
+1900,1120,2024-04-12,Notebook Pro 14,5,6500.0,Belo Horizonte,MG
+1901,1883,2024-05-27,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+1902,1475,2024-05-29,Headset Gamer,2,520.0,Belo Horizonte,MG
+1903,1054,2024-02-07,Notebook Pro 14,2,6500.0,Salvador,BA
+1904,1864,2024-06-25,Teclado Mecânico,4,380.0,Rio de Janeiro,RJ
+1905,1163,2024-05-10,Notebook Pro 14,1,6500.0,Salvador,BA
+1906,1372,2024-02-25,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+1907,1342,2024-04-29,Dock USB-C,4,280.0,São Paulo,SP
+1908,1106,2024-05-23,Notebook Pro 14,5,6500.0,Rio de Janeiro,RJ
+1909,1161,2024-06-01,Notebook Pro 14,4,6500.0,Porto Alegre,RS
+1910,1118,2024-01-14,Notebook Air 13,4,4500.0,Porto Alegre,RS
+1911,1593,2024-03-04,Teclado Mecânico,2,380.0,Salvador,BA
+1912,1693,2024-06-23,Mouse Wireless,2,120.0,Recife,PE
+1913,1112,2024-03-04,Notebook Air 13,1,4500.0,Rio de Janeiro,RJ
+1914,1755,2024-03-21,Dock USB-C,2,280.0,Curitiba,PR
+1915,1912,2024-02-12,Notebook Pro 14,4,6500.0,Porto Alegre,RS
+1916,1496,2024-01-11,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1917,1950,2024-04-28,Teclado Mecânico,2,380.0,Curitiba,PR
+1918,1382,2024-01-27,Teclado Mecânico,2,380.0,Salvador,BA
+1919,1367,2024-02-22,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+1920,1032,2024-05-14,"Monitor 27""",1,1450.0,Belo Horizonte,MG
+1921,1139,2024-01-22,Dock USB-C,4,280.0,Curitiba,PR
+1922,1428,2024-02-03,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+1923,1907,2024-02-27,"Monitor 27""",2,1450.0,Recife,PE
+1924,1813,2024-05-03,"Monitor 27""",2,1450.0,Porto Alegre,RS
+1925,1993,2024-04-17,Dock USB-C,2,280.0,São Paulo,SP
+1926,1421,2024-06-15,"Monitor 27""",4,1450.0,Recife,PE
+1927,1221,2024-04-24,Teclado Mecânico,4,380.0,Belo Horizonte,MG
+1928,1014,2024-05-21,Teclado Mecânico,2,380.0,Rio de Janeiro,RJ
+1929,1335,2024-03-25,"Monitor 27""",2,1450.0,Porto Alegre,RS
+1930,1968,2024-01-29,"Monitor 27""",1,1450.0,Curitiba,PR
+1931,1045,2024-01-08,Teclado Mecânico,5,380.0,São Paulo,SP
+1932,1435,2024-04-13,Teclado Mecânico,4,380.0,Recife,PE
+1933,1817,2024-05-15,Dock USB-C,1,280.0,Curitiba,PR
+1934,1507,2024-02-16,Notebook Pro 14,5,6500.0,Recife,PE
+1935,1012,2024-05-14,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+1936,1135,2024-03-10,Mouse Wireless,2,120.0,Salvador,BA
+1937,1092,2024-01-04,Teclado Mecânico,3,380.0,Rio de Janeiro,RJ
+1938,1720,2024-03-30,Dock USB-C,5,280.0,Salvador,BA
+1939,1597,2024-01-05,Teclado Mecânico,4,380.0,Recife,PE
+1940,1141,2024-06-18,Headset Gamer,4,520.0,Rio de Janeiro,RJ
+1941,1808,2024-06-18,Mouse Wireless,4,120.0,Salvador,BA
+1942,1648,2024-01-01,Dock USB-C,1,280.0,Curitiba,PR
+1943,1914,2024-05-14,Mouse Wireless,5,120.0,São Paulo,SP
+1944,1303,2024-03-23,Dock USB-C,3,280.0,Salvador,BA
+1945,1968,2024-04-28,"Monitor 27""",5,1450.0,Recife,PE
+1946,1212,2024-06-01,Headset Gamer,1,520.0,Porto Alegre,RS
+1947,1901,2024-03-06,Headset Gamer,1,520.0,Porto Alegre,RS
+1948,1968,2024-06-25,Headset Gamer,3,520.0,São Paulo,SP
+1949,1113,2024-03-15,Mouse Wireless,4,120.0,Porto Alegre,RS
+1950,1041,2024-03-11,Mouse Wireless,2,120.0,Salvador,BA
+1951,1572,2024-05-16,Notebook Pro 14,5,6500.0,Salvador,BA
+1952,1792,2024-02-09,Notebook Air 13,3,4500.0,Rio de Janeiro,RJ
+1953,1552,2024-01-23,Headset Gamer,4,520.0,Salvador,BA
+1954,1961,2024-05-26,"Monitor 27""",2,1450.0,Recife,PE
+1955,1762,2024-05-27,Notebook Air 13,3,4500.0,Belo Horizonte,MG
+1956,1919,2024-02-21,"Monitor 27""",4,1450.0,Belo Horizonte,MG
+1957,1055,2024-01-13,Mouse Wireless,3,120.0,Curitiba,PR
+1958,1497,2024-04-07,"Monitor 27""",1,1450.0,Curitiba,PR
+1959,1726,2024-04-13,Headset Gamer,5,520.0,Belo Horizonte,MG
+1960,1462,2024-04-30,Mouse Wireless,1,120.0,Rio de Janeiro,RJ
+1961,1913,2024-06-20,Teclado Mecânico,1,380.0,São Paulo,SP
+1962,1400,2024-06-23,Notebook Air 13,3,4500.0,São Paulo,SP
+1963,1111,2024-02-01,Mouse Wireless,1,120.0,Salvador,BA
+1964,1151,2024-04-06,Notebook Air 13,2,4500.0,Porto Alegre,RS
+1965,1974,2024-05-01,Notebook Pro 14,3,6500.0,Curitiba,PR
+1966,1992,2024-05-12,"Monitor 27""",2,1450.0,Curitiba,PR
+1967,1355,2024-03-22,Teclado Mecânico,1,380.0,Belo Horizonte,MG
+1968,1193,2024-01-13,Notebook Pro 14,2,6500.0,Recife,PE
+1969,1970,2024-04-10,Headset Gamer,3,520.0,Curitiba,PR
+1970,1592,2024-03-07,Headset Gamer,3,520.0,Curitiba,PR
+1971,1607,2024-05-09,Headset Gamer,5,520.0,Recife,PE
+1972,1561,2024-03-27,Teclado Mecânico,3,380.0,Porto Alegre,RS
+1973,1135,2024-06-23,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+1974,1808,2024-02-20,Notebook Air 13,4,4500.0,Belo Horizonte,MG
+1975,1994,2024-02-25,Dock USB-C,1,280.0,Rio de Janeiro,RJ
+1976,1361,2024-02-25,Teclado Mecânico,2,380.0,Porto Alegre,RS
+1977,1946,2024-02-01,Headset Gamer,5,520.0,Belo Horizonte,MG
+1978,1186,2024-02-04,Dock USB-C,2,280.0,Rio de Janeiro,RJ
+1979,1243,2024-01-23,Notebook Pro 14,3,6500.0,Porto Alegre,RS
+1980,1129,2024-03-26,Mouse Wireless,3,120.0,Rio de Janeiro,RJ
+1981,1210,2024-04-19,Headset Gamer,1,520.0,Salvador,BA
+1982,1324,2024-03-07,Notebook Air 13,3,4500.0,Curitiba,PR
+1983,1552,2024-02-01,"Monitor 27""",3,1450.0,São Paulo,SP
+1984,1942,2024-01-05,Teclado Mecânico,4,380.0,Recife,PE
+1985,1148,2024-03-29,Mouse Wireless,2,120.0,São Paulo,SP
+1986,1993,2024-05-23,"Monitor 27""",5,1450.0,Belo Horizonte,MG
+1987,1662,2024-05-16,Mouse Wireless,4,120.0,Belo Horizonte,MG
+1988,1992,2024-05-26,"Monitor 27""",2,1450.0,Recife,PE
+1989,1578,2024-05-21,Teclado Mecânico,3,380.0,Salvador,BA
+1990,1115,2024-05-22,Teclado Mecânico,1,380.0,Rio de Janeiro,RJ
+1991,1694,2024-04-16,Notebook Pro 14,3,6500.0,São Paulo,SP
+1992,1411,2024-04-29,Dock USB-C,2,280.0,Curitiba,PR
+1993,1365,2024-01-18,Mouse Wireless,1,120.0,Porto Alegre,RS
+1994,1656,2024-02-07,"Monitor 27""",5,1450.0,Rio de Janeiro,RJ
+1995,1800,2024-06-30,Dock USB-C,3,280.0,Rio de Janeiro,RJ
+1996,1023,2024-01-17,"Monitor 27""",4,1450.0,Salvador,BA
+1997,1687,2024-01-17,"Monitor 27""",4,1450.0,Rio de Janeiro,RJ
+1998,1502,2024-03-02,"Monitor 27""",5,1450.0,Porto Alegre,RS
+1999,1966,2024-01-11,Headset Gamer,3,520.0,Curitiba,PR
+2000,1151,2024-05-19,Dock USB-C,4,280.0,Belo Horizonte,MG
