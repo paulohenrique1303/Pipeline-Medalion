@@ -1,41 +1,20 @@
-## Pipeline de Dados – Arquitetura Medallion (Bronze, Silver, Gold)
+## Pipeline de Dados – Arquitetura Medallion (Bronze ▸ Silver ▸ Gold)
 
-Este projeto implementa uma pipeline de dados local seguindo a arquitetura Medallion:
+Pipeline local e minimalista seguindo o padrão Medallion para ingestão, qualidade e consumo analítico de dados.
 
-- Bronze: ingestão de dados brutos em Parquet
-- Silver: padronização/limpeza e tipagem
-- Gold: agregações e data marts analíticos
+- Bronze: ingestão de dados brutos e padronização em Parquet
+- Silver: limpeza, tipagem, normalização de texto e colunas derivadas
+- Gold: agregações analíticas e data marts prontos para consumo
 
-Stack local escolhida para simplicidade e rodar bem no Windows:
-- Python + Pandas + PyArrow + DuckDB
+Tecnologias: Python, Pandas, PyArrow e DuckDB.
 
 ### Pré‑requisitos
-- Python 3.10+ instalado no sistema
+- Python 3.10+ instalado
 
-### Como executar
-1. Criar ambiente virtual e instalar dependências:
-   ```powershell
-python -m venv .venv
-./.venv/Scripts/python.exe -m pip install --upgrade pip
-./.venv/Scripts/python.exe -m pip install -r requirements.txt
-   ```
-
-2. Rodar a pipeline completa (gera dados sintéticos se não houver CSV em `data/raw`):
-   ```powershell
-./.venv/Scripts/python.exe -m src.pipeline.orchestrate run-all
-   ```
-
-3. Executar etapas individuais:
-   ```powershell
-./.venv/Scripts/python.exe -m src.pipeline.orchestrate bronze
-./.venv/Scripts/python.exe -m src.pipeline.orchestrate silver
-./.venv/Scripts/python.exe -m src.pipeline.orchestrate gold
-   ```
-
-4. Estrutura de diretórios gerada:
+### Estrutura do projeto
 ```
 data/
-  raw/               # coloque CSVs aqui (opcional)
+  raw/                      # CSVs de entrada (opcional; gerado sintético se vazio)
   bronze/
     sales/
   silver/
@@ -44,13 +23,19 @@ data/
     revenue_by_month/
     top_products/
     revenue_by_state/
+src/
+  pipeline/
+    orchestrate.py          # CLI de orquestração
+    bronze.py               # camada Bronze
+    silver.py               # camada Silver
+    gold.py                 # camada Gold
+    io_paths.py             # convenções de caminhos
+requirements.txt
+README.md
 ```
 
-### Sobre os dados
-- Se `data/raw` estiver vazio, a etapa Bronze cria um dataset sintético de vendas para permitir execução imediata.
-- Se quiser usar seus próprios dados, coloque arquivos CSV em `data/raw/` contendo colunas: `order_id,customer_id,order_date,product,quantity,unit_price,city,state`.
-
-### Observações
-- Projeto minimalista, fácil de expandir para Spark/Delta Lake no futuro mantendo o desenho Medallion.
-
+### Notas de implementação
+- Bronze lê CSV(s) e escreve `data/bronze/sales/sales.parquet`.
+- Silver aplica limpeza e deriva `revenue`, salvando em `data/silver/sales/sales_clean.parquet`.
+- Gold cria três data marts: por mês, por produto e por estado.
 
