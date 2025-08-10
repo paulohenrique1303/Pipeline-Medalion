@@ -34,6 +34,29 @@ requirements.txt
 README.md
 ```
 
+### Como executar
+- Executar a pipeline completa (gera dados sintéticos se `data/raw` estiver vazio):
+  - Windows:
+    ```powershell
+    ./.venv/Scripts/python.exe -m src.pipeline.orchestrate run-all
+    ```
+  - Linux/macOS (após ativar o venv):
+    ```bash
+    python -m src.pipeline.orchestrate run-all
+    ```
+
+- Executar etapas individuais:
+  ```bash
+  python -m src.pipeline.orchestrate bronze
+  python -m src.pipeline.orchestrate silver
+  python -m src.pipeline.orchestrate gold
+  ```
+
+- Limpar artefatos processados (recria diretórios vazios):
+  ```bash
+  python -m src.pipeline.orchestrate clean
+  ```
+
 ### Notas de implementação
 - Bronze lê CSV(s) e escreve `data/bronze/sales/sales.parquet`.
 - Silver aplica limpeza e deriva `revenue`, salvando em `data/silver/sales/sales_clean.parquet`.
